@@ -1,4 +1,4 @@
-[Product Name],Medium,Type,Product Name,User Name,Manufacturer,Model,Year,Original Price,Serial,Floppy Drive,Optical Drive,Hard Drive Disk,RAM,CPU,External Connections,Internal Connections,Operating System,Compatible Peripherals,Accession #,Tested [date],Donor,Notes
+Name,Medium,Type,Product Name,User Name,Manufacturer,Model,Year,Original Price,Serial,Floppy Drive,Optical Drive,Hard Drive Disk,RAM,CPU,External Connections,Internal Connections,Operating System,Compatible Peripherals,Accession #,Tested [date],Donor,Notes
 [Farallon MacRecorder], Hardware, Audio Device, Farallon MacRecorder, Farallon MacRecorder, Farallon Computing, 36802, 1988, N/A, 100969, N/A, N/A, N/A, N/A, N/A, 1 x Microphone; 1 x Line-in, N/A, N/A, N/A, 2014.09.11,,,
 [iPod (4th Generation Classic)], Hardware, iPod, iPod, 4th generation iPod (Classic), Apple, 4th generation, 2004, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, 2013.07.288,,,
 [iPod Shuffle], Hardware, iPod, iPod Shuffle, iPod Shuffle, Apple, Shuffle, N/A, N/A, N/A, N/A, N/A, N/A, 512MB, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A, N/A

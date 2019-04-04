@@ -1,4 +1,4 @@
-[Product Name],Medium,Type,Product Name,User Name,Intended Compatibility,Interface,Model,Serial,Year,Accession #,Tested [date],Donor,Notes
+Name,Medium,Type,Product Name,User Name,Intended Compatibility,Interface,Model,Serial,Year,Accession #,Tested [date],Donor,Notes
 [Adaptec AHA-2930CU SCSI Controller Card],Peripheral,Internal Expansion Card,Adaptec AHA-2930CU SCSI Controller Card,Adaptec AHA-2930CU SCSI Controller Card,PC,PCI,AHA-2930CU,BD0D3130046,1997,2014.08.53,,,
 [Adaptec AHA-2930U2 SCSI Controller Card],Peripheral,Internal Expansion Card,Adaptec 2930U2 SCSI Controller Card,Adaptec 2930U2 SCSI Controller Card,PC,PCI,AHA-2930U2,BC0B949Z221,1999,2014.08.52,,,
 [AirLink+ PCI Network Adaptor Card],Peripheral,Internal Expansion Card,AirLink+ PCI Network Adaptor Card,AirLink+ PCI Network Adaptor Card,PC,PCI Slot,AGIGA32PCI,9705GA1200T0UA1,2003,2014.08.08,,Brad Feld,Original in box. Includes floppy disk containing driver software.
