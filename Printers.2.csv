@@ -1,3 +1,3 @@
-Item,Medium,Type,Product Name,User Name,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Tested [date],Donor,Notes
+Item,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Tested [date],Donor,Notes
 Atari 1027 Letter Quality Printer,Peripheral,Printer,Atari 1027 Letter Quality Printer,Atari 1027 Printer,Atari,,1027,9z6fd78173114,1983,2018.02.27,,,Box fresh
 Apple Silentype Printer,Peripheral,Printer,Apple Silentype Printer,,Apple Computers,Proprietary interface,A2M0032,28576,1980,2018.10.11,,William Redak,Gives Err with PR#1. Tried swap moboard no diff
