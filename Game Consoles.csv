@@ -1,0 +1,20 @@
+Item,Medium,Type,Product Name,User Name,Manufacturer,Model,Year,Original Price,Serial,Floppy Drive,Optical Drive,Hard Disk Drive,RAM,CPU,External Connections,Internal Connections,Operating System,Compatible Peripherals,Keypad,Accession #,Tested [date],Donor,Notes
+Atari,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Mattel,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Nintendo,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Venture Electronics,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Vectrex,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Sega,,,,,,,,,,,,,,,,,,,,,,,
+Sega Genesis,Hardware,Game Console,Sega Genesis,Sega Genesis,Sega,MK-1631,,,R30119886,N/A,,,,Motorola 68000 @ 7.6 MHz Zilog Z80 @ 3.58 MHz,,,,,,2018.02.34,,,
+Sega Dreamcast,Hardware,Game Console,Sega   ,,"Sega Enterprises, Ltd.",,1999,,,N/A,128‑bit vector graphic computational engine (SIMD) @ 200 MHz,,26.125 MB,Hitachi SH-4,Line; AC in; AV out; Serial; 4 controller ports,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Sony,,,,,,,,,,,,,,,,,,,,,,,
+Sony Playstation 2,Hardware,Game Console,Sony Playstation 2,,Sony,SCPH-30001 R,2000,,FU0483326,N/A,Proprietary interface through a custom micro-controller + DSP chip. Supported Disc Media: PlayStation 2 format CD-ROM,,"32 MB PC800 32-bit dual-channel (2x 16-bit) RDRAM (Direct Rambus DRAM) @ 400 MHz, 3.2 GB/s peak bandwidth","MIPS III R5900-based ""Emotion Engine"", clocked at 294.912 MHz",2 proprietary PlayStation controller ports; 2 proprietary Memory Card slots; 2 USB 1.1 ports; AV Multi Out; RFU DC Out; S/PDIF Digital Out; PC Card slot; Ethernet port; i.LINK; Infrared remote control port,,,,N/A,2018.10.12,,,"Comes with two controllers, RFU Adaptor,  AV multi connector"
+,,,,,,,,,,,,,,,,,,,,,,,
+XBox,,,,,,,,,,,,,,,,,,,,,,,
+XBox,Hardware,Game Console,XBox,,Microsoft,,2003,,2109351 34405,N/A,,"8 or 10 GB, 3.5 in, 5,400 RPM hard disk formatted to 8 GB with FATX file system",64 MB DDR SDRAM at 200 MHz; in dual-channel 128-bit configuration giving 6400 MB/s (6.4 GB/s),"32-bit 733 MHz, custom Intel Pentium III Coppermine-based processor in a Micro-PGA2 package","4 proprietary USB 1.1 ports; composite video, S-Video, component video, HDMI(via 3rd party), SCART, Digital Optical TOSLINK, and stereo RCA analog audio; DVD movie playback; Integrated 10/100BASE-TX wired Ethernet with ICS ICS1893AF Physical Layer Transceiver",,"Windows 8, Windows 10",,,2018.10.30,,,Comes with controller and DVD Movie Playback Kit
