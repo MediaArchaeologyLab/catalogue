@@ -1,29 +1,29 @@
 Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-[Acer Mouse],Peripheral,Mouse,Acer Mouse,Acer Mouse,,,,,,2013.07.270,,,
-[Amiga 500 Mouse],Peripheral,Mouse,Amiga 500 Mouse,Amiga 500 Mouse,Commodore Amiga 500 Mouse,,,,,2013.06.62,5/30/2013,,
-[Apple Centris 610 Mouse],Peripheral,Mouse,Apple Centris 610 Mouse,Apple Centris 610 Mouse,Apple Centris 610,,,,,2013.06.22,5/30/2013,,
-[Apple Desktop Bus Mouse],Peripheral,Mouse,Apple Desktop Bus Mouse,Apple Desktop Bus Mouse,Apple computers,,,,,2013.07.139,,,"2013.07.140, 2013.07.199."
-[Apple Desktop Bus Mouse II],Peripheral,Mouse,Apple Desktop Bus Mouse II,Apple Desktop Bus Mouse II,Apple computers,,,,,2013.07.142,,,2013.07.143; 2014.09.14
-[Apple IIc Mouse],Peripheral,Mouse,Apple IIc Mouse,Apple IIc Mouse,Apple IIc,9-pin serial port,A2M4015,,,2013.06.18,5/30/2013,,2013.12.59.
-[Apple IIe Mouse],Peripheral,Mouse,Apple IIe Mouse,Apple IIe Mouse,Apple IIe,,,,,2013.06.7,5/30/2013,,
-[Apple iMac G3 Mouse],Peripheral,Mouse,Apple iMac G3 Mouse, Apple iMac G3 Mouse,Apple iMac G3,,,,,2013.06.25,5/30/2013,,
 [Apple Lisa Mouse],Peripheral,Mouse,Apple Lisa Mouse,Apple Lisa Mouse,Apple Lisa,,,,,2013.06.14,5/30/2013,,
+[Apple IIc Mouse],Peripheral,Mouse,Apple IIc Mouse,Apple IIc Mouse,Apple IIc,9-pin serial port,A2M4015,,,2013.06.18,5/30/2013,,2013.12.59.
+[Apple Centris 610 Mouse],Peripheral,Mouse,Apple Centris 610 Mouse,Apple Centris 610 Mouse,Apple Centris 610,,,,,2013.06.22,5/30/2013,,
+[Apple iMac G3 Mouse],Peripheral,Mouse,Apple iMac G3 Mouse, Apple iMac G3 Mouse,Apple iMac G3,,,,,2013.06.25,5/30/2013,,
 [Apple iMac G4 Mouse],Peripheral,Mouse,Apple iMac G4 Mouse,Apple iMac G4 Mouse,Apple iMac G4,,,,,2013.06.28,5/30/2013,,
-[Apple Macintosh SE Mouse],Peripheral,Mouse,Apple Macintosh SE Mouse,Apple Macintosh SE Mouse,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.10,,Brad Feld,
-[Apple Mouse],Peripheral,Mouse,Apple Mouse,Apple Mouse,Apple computers,,,,,2013.07.141,,,2013.07.144.
-[Apple Mouse II],Peripheral,Mouse,Apple Mouse II,Apple Mouse II,8-pin port,8-pin port,M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,
-[Apple USB Mouse],Peripheral,Mouse,Apple USB Mouse,Apple USB Mouse,Apple computers,,,,,2013.06.75,,,
-[Apple USB Pro Mouse],Peripheral,Mouse,Apple USB Pro Mouse,Apple USB Pro Mouse,Apple,,Apple Pro Mouse,3892P902,,2014.07.47,,Mark Morris,
-[Commodore Mouse],Peripheral,Mouse,Commodore Mouse,Commodore Mouse,Commodore computers,,,,,2013.07.246,,,2014.09.90
-[Dell Serial Mouse],Peripheral,Mouse,Dell Serial Mouse,Dell Serial Mouse,Dell computers,9-pin serial port,,,,2013.07.357,,,
-[General Electric (GE) Mouse],Peripheral,Mouse,General Electric (GE) Mouse,General Electric (GE) Mouse,,,,,,2013.07.258,,,
-[IBM Mouse],Peripheral,Mouse,IBM Mouse,IBM Mouse,IBM computers,,,,,2013.07.245,,,
-[Macintosh Portable Mouse],Peripheral,Mouse,Macintosh Portable Mouse,Macintosh Portable Mouse,Macintosh Portable,,,,,2013.06.92,5/30/2013,,
-[Macintosh Portable Trackball Style Mouse Attachment],Peripheral,Mouse,Macintosh Portable Trackball Style Mouse Attachment,Macintosh Portable Trackball Style Mouse Attachment,Macintosh Portable,Serial Port,,,,2013.07.281,,,"Attaches with serial cable as external, but attachable device."
+[Amiga 500 Mouse],Peripheral,Mouse,Amiga 500 Mouse,Amiga 500 Mouse,Commodore Amiga 500 Mouse,,,,,2013.06.62,5/30/2013,,
 [NeXT Cube Mouse],Peripheral,Mouse,NeXT Cube Mouse,NeXT Cube Mouse,NeXT Cube,,,,,2013.06.69,5/30/2013,,
+[Apple IIe Mouse],Peripheral,Mouse,Apple IIe Mouse,Apple IIe Mouse,Apple IIe,,,,,2013.06.7,5/30/2013,,
+[Apple USB Mouse],Peripheral,Mouse,Apple USB Mouse,Apple USB Mouse,Apple computers,,,,,2013.06.75,,,
+[Macintosh Portable Mouse],Peripheral,Mouse,Macintosh Portable Mouse,Macintosh Portable Mouse,Macintosh Portable,,,,,2013.06.92,5/30/2013,,
+[Apple Desktop Bus Mouse],Peripheral,Mouse,Apple Desktop Bus Mouse,Apple Desktop Bus Mouse,Apple computers,,,,,2013.07.139,,,"2013.07.140, 2013.07.199."
+[Apple Mouse],Peripheral,Mouse,Apple Mouse,Apple Mouse,Apple computers,,,,,2013.07.141,,,2013.07.144.
+[Apple Desktop Bus Mouse II],Peripheral,Mouse,Apple Desktop Bus Mouse II,Apple Desktop Bus Mouse II,Apple computers,,,,,2013.07.142,,,2013.07.143; 2014.09.14
+[IBM Mouse],Peripheral,Mouse,IBM Mouse,IBM Mouse,IBM computers,,,,,2013.07.245,,,
+[Commodore Mouse],Peripheral,Mouse,Commodore Mouse,Commodore Mouse,Commodore computers,,,,,2013.07.246,,,2014.09.90
+[General Electric (GE) Mouse],Peripheral,Mouse,General Electric (GE) Mouse,General Electric (GE) Mouse,,,,,,2013.07.258,,,
+[Acer Mouse],Peripheral,Mouse,Acer Mouse,Acer Mouse,,,,,,2013.07.270,,,
+[Macintosh Portable Trackball Style Mouse Attachment],Peripheral,Mouse,Macintosh Portable Trackball Style Mouse Attachment,Macintosh Portable Trackball Style Mouse Attachment,Macintosh Portable,Serial Port,,,,2013.07.281,,,"Attaches with serial cable as external, but attachable device."
+[Dell Serial Mouse],Peripheral,Mouse,Dell Serial Mouse,Dell Serial Mouse,Dell computers,9-pin serial port,,,,2013.07.357,,,
+[Apple Macintosh SE Mouse],Peripheral,Mouse,Apple Macintosh SE Mouse,Apple Macintosh SE Mouse,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.10,,Brad Feld,
 [NeXT Mouse],Peripheral,Mouse,NeXT Mouse,NeXT Mouse,NeXT Systems,Proprietary NeXT Serial Connection,Part 193,NAAF 0210790,1988,2013.10.54,,Brad Feld,2013.10.60.
-[PC Mouse],Peripheral,Mouse,PC Mouse,PC Mouse,PC compatible computers,PS/2 port,MO42KC,043608343,Unknown,2014.1.2,1/02/2014,“Anonymous”,
+[Apple USB Pro Mouse],Peripheral,Mouse,Apple USB Pro Mouse,Apple USB Pro Mouse,Apple,,Apple Pro Mouse,3892P902,,2014.07.47,,Mark Morris,
 [Logitech MouseMan],Peripheral,Mouse,"Logitech MouseMan, MousePort Version",Logitech MouseMan,PC,PS/2,CQ38,OA53713233,Unknown,2014.08.15,,Brad Feld,
 [KDS Mouse],Peripheral,Mouse,KDS Mouse,KDS Mouse,PC,PS/2,MO15K,36L34273,Unknown,2014.08.16,,Brad Feld,
 [Dell IntelliMouse],Peripheral,Mouse,Dell IntelliMouse,Dell IntelliMouse,PC,PS/2,X06-08477,63618-OEM-0007194-1,2011,2014.08.17,,Brad Feld,
 [Dell/Logitech M-S28],Peripheral,Mouse,Dell/Logitech M-S28,Dell/Logitech M-S28,PC,PS/2,M-S28,LC4141005031,1993,2014.08.18,,Brad Feld,
+[PC Mouse],Peripheral,Mouse,PC Mouse,PC Mouse,PC compatible computers,PS/2 port,MO42KC,043608343,Unknown,2014.1.2,1/02/2014,“Anonymous”,
+[Apple Mouse II],Peripheral,Mouse,Apple Mouse II,Apple Mouse II,8-pin port,8-pin port,M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,

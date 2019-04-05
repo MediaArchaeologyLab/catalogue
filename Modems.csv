@@ -1,7 +1,7 @@
 Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
 [Apple Modem 300],Peripheral,Modem,Apple Modem 300,Apple Modem 300,Apple Computers,N/A,A9M0300,LA 032414,N/A,2013.07.135,,,"In box with power cable, connector cable, instruction manual"
-[CAT Novation Modem],Peripheral,Modem,CAT Modem,CAT Novation Modem,Apple II,25-pin Serial,CAT,92394,Late 1970s,2013.12.19,,Brad Feld,
 [Commodore 64 Modem],Peripheral,Modem,Commodore 64 Modem,Commodore 64 Modem,Commodore 64,N/A,N/A,N/A,N/A,2013.07.248,,,
-[HesModem I],Peripheral,Modem,HesModem I,HesModem I,Commodore 64 and VIC 20,Direct-Connect,I,007833,1984,2016.07.8,,,
+[CAT Novation Modem],Peripheral,Modem,CAT Modem,CAT Novation Modem,Apple II,25-pin Serial,CAT,92394,Late 1970s,2013.12.19,,Brad Feld,
 [Siemens SpeedStream 4100 Modem],Peripheral,Modem,Siemens SpeedStream 4100 Modem,Siemens SpeedStream 4100 Modem,,Ethernet,060-D141-A12,20013A33CACC3,2010,2014.06.44,,Brad Feld,
+[HesModem I],Peripheral,Modem,HesModem I,HesModem I,Commodore 64 and VIC 20,Direct-Connect,I,007833,1984,2016.07.8,,,
 Actiontec USB/Ethernet DSL Modem,Peripheral,Modem,Actiontec USB/Ethernet DSL Modem,Actiontec USB/Ethernet DSL Modem,N/A,Wired Ethernet,GT701R,S100Y32069306,,2018.02.29,,,"Comes in Qwest shipping box with set up disk, instructions, power cord, and connection hardware."
