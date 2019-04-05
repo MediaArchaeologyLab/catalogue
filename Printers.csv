@@ -15,3 +15,5 @@ Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Se
 [HP Scanjet 4570C Scanner ],Peripheral,Scanner,HP Scanjet 4570C Scanner,HP Scanjet 4570C Scanner,Windows 2000/XP/MAC,USB 2.0,Scanjet 4570C,CN2AXT5OR5,2002,2014.08.01,,Brad Feld,Includes HP Scanjet tma5500c (2014.08.02)
 [HP Scanjet tma5500c film scanner],Peripheral,Scanner,HP Scanjet tma5500c,HP Scanjet tma5500c,Windows 2000/XP/MAC,PS/2,C9911A,CN2AE133K1,2002,2014.08.02,,Brad Feld,Included with HP Scanjet 4570C (2014.08.01)
 [Hewlett Packard PhotoSmart Photo Scanner ],Peripheral,Printer,Hewlett Packard PhotoSmart Photo Scanner,Hewlett Packard PhotoSmart Photo Scanner,Windows 95/98,SCSI,C5100A,SG78Q110BS,1999,2014.08.03,,Brad Feld,
+Atari 1027 Letter Quality Printer,Peripheral,Printer,Atari 1027 Letter Quality Printer,Atari 1027 Printer,Atari,,1027,9z6fd78173114,1983,2018.02.27,,,Box fresh
+Apple Silentype Printer,Peripheral,Printer,Apple Silentype Printer,,Apple Computers,Proprietary interface,A2M0032,28576,1980,2018.10.11,,William Redak,Gives Err with PR#1. Tried swap moboard no diff
