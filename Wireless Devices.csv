@@ -1,6 +1,6 @@
 Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-[Linksys Wireless-G Notebook Adapter],Peripheral,Wireless Device,Linksys Wireless-G Notebook Adapter,Linksys Wireless-G Notebook Adapter,PC,PC Card Serial,WPC54G,BDH20D641326,2003,2014.08.09,,Brad Feld,Was slightly bent when it arrived; may not operate properly.
-[Cisco Aironet 1121G Wireless Access Point],Peripheral,Wireless Device,Cisco Aironet 1121G Wireless Access Point,Cisco Aironet 1121G Wireless Access Point,N/A,RJ-45 Ethernet (POE Compatible),1121G-A-K9,FTX0835V26X,2006,2014.08.33,,,
-[US Robotics Wireless MAXg Access Point],Peripheral,Wireless Device,US Robotics Wireless MAXg Access Point,US Robotics Wireless MAXg Access Point,N/A,RJ-45 LAN Connection,5451,1WBK15GF005R,2005,2014.08.34,,,Damaged antenna.
-[Linksys Wireless-G Access Point],Peripheral,Wireless Device,Linksys Wireless-G Access Point,Linksys Wireless-G Access Point,N/A,RJ-45 LAN Connection,WAP54G,MDG20E104925,2008,2014.08.35,,,
-[Hawking Wireless-G Bridge/Access Point],Peripheral,Wireless Device,Hawking Wireless-G Bridge/Access Point,Hawking Wireless-G Bridge/Access Point,N/A,RJ-45 LAN Connection,HWBA54G,HABTWBA54G04370695,2011,2014.08.36,,,
+Linksys Wireless-G Notebook Adapter,Peripheral,Wireless Device,Linksys Wireless-G Notebook Adapter,Linksys Wireless-G Notebook Adapter,PC,PC Card Serial,WPC54G,BDH20D641326,2003,2014.08.09,,Brad Feld,Was slightly bent when it arrived; may not operate properly.
+Cisco Aironet 1121G Wireless Access Point,Peripheral,Wireless Device,Cisco Aironet 1121G Wireless Access Point,Cisco Aironet 1121G Wireless Access Point,N/A,RJ-45 Ethernet (POE Compatible),1121G-A-K9,FTX0835V26X,2006,2014.08.33,,,
+US Robotics Wireless MAXg Access Point,Peripheral,Wireless Device,US Robotics Wireless MAXg Access Point,US Robotics Wireless MAXg Access Point,N/A,RJ-45 LAN Connection,5451,1WBK15GF005R,2005,2014.08.34,,,Damaged antenna.
+Linksys Wireless-G Access Point,Peripheral,Wireless Device,Linksys Wireless-G Access Point,Linksys Wireless-G Access Point,N/A,RJ-45 LAN Connection,WAP54G,MDG20E104925,2008,2014.08.35,,,
+Hawking Wireless-G Bridge/Access Point,Peripheral,Wireless Device,Hawking Wireless-G Bridge/Access Point,Hawking Wireless-G Bridge/Access Point,N/A,RJ-45 LAN Connection,HWBA54G,HABTWBA54G04370695,2011,2014.08.36,,,
