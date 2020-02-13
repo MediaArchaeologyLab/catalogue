@@ -1,16 +1,16 @@
 Name,Medium,Type,Title,Author,Editor,Translator,Publisher,Year,Language,Genre,Identifying Number,Accession Number,Donor,Notes
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.3,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.3,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.4,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.4,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.5,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.5,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.6,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.6,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.7,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.7,,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.8,Aaron Kuhn,
-[],Printed Matter,,,,,N/A,,,English,,, 2013.08.8,Aaron Kuhn,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.3,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.3,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.4,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.4,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.5,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.5,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.6,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.6,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.7,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.7,,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.8,Aaron Kuhn,
+[],Printed Matter,,,,,N/A,,,English,,,2013.08.8,Aaron Kuhn,
 [HyperTalk: Beginners Guide to Scripting],Printed Matter,Manual,Hypertalk: Beginner’s Guide to Scripting,Claris,N/A,N/A,Addison-Wesley,1989,English,Instructional,U90-614-004A,2013.07.370,Keith Moore,
 [HyperCard - Getting Started],Printed Matter,Book,HyperCard: Getting Started,Claris,N/A,N/A,Addison-Wesley,1989,English,Instructional,U90-606-009A,2013.07.371,Keith Moore,
 [Apple III - CP/M Reference Manual],Printed Matter,Manual,Apple III - CP/M Reference Manual,Apple Computer,N/A,N/A,Apple Computer,1982,English,CP/M (Operating System)--Reference Manual,076-0004,2013.07.372,Keith Moore,1 of 2 duplicate copies.
@@ -513,7 +513,7 @@ Name,Medium,Type,Title,Author,Editor,Translator,Publisher,Year,Language,Genre,Id
 [TRS-80 Model II Operation Manual],Printed Matter,Manual,TRS-80 Model II Operation Manual,Tandy Corporation,NA,NA,Tandy Corporation,1980,English,Instructional,Cat. No. 26-4920,2013.12.39,William Waite,Includes TRSDOS Disk Operating System and BASIC Interpreter diskette.
 [How to Profit from Your Personal Computer],Printed Matter,Book,How to Profit from Your Personal Computer,T.G. Lewis,N/A,N/A,"Hayden Book Company, Inc. Rochelle Park, New Jersey",1978,English,Computers,ISBN 0-8104-5761-X,2013.12.4,Brad Feld,
 [U.S. Robotics Sportster 2400 Modem User’s Guide],Printed Matter,Manual,U.S. Robotics Sportster 2400 Modem User’s Guide,U.S. Robotics,NA,NA,U.S. Robotics,1987,English,Instructional,1.015.097 Rev. B,2013.12.41,William Waite,
-"[TRS-80 Microcomputer News (Volume 5, Issues 2-7, February-July 1983)]",Printed Matter,Magazine,"TRS-80 Microcomputer News (Volume 5, Issues 2-7 (February-July 1983)",NA,NA,NA,Tandy Corporation,1983,English,Computer,NA,2013.12.43 - 2013.12.46,William Waite,"Five Issues: Volume 5, Issues 2-7 (February-July), 1983."
+"[TRS-80 Microcomputer News (Volume 5, Issues 2-7, February-July 1983)]",Printed Matter,Magazine,"TRS-80 Microcomputer News (Volume 5, Issues 2-7 (February-July 1983)",NA,NA,NA,Tandy Corporation,1983,English,Computer,NA,,William Waite,"Five Issues: Volume 5, Issues 2-7 (February-July), 1983."
 [Hayes SmartModem 2400 User’s Guide],Printed Matter,Manual,Hayes SmartModem 2400 User’s Guide,Hayes Microcomputer Products,NA,NA,Hayes Microcomputer Products,1985,English,Instructional,98-00192,2013.12.49,William Waite,
 [CAT Modem--Novation - Installation and Operation Manual],Printed Matter,Manual,CAT Modem--Novation - Installation and Operation Manual,Novation,N/A,N/A,N/A,1978,English,Modem--Operation Manual,NM153/1278,2013.12.5,Brad Feld,
 [Notebook w/ Handwritten Game Notes],Printed Matter,Manual,Notebook w/ Handwritten Game Notes,William Waite,NA,NA,NA,NA,English,Personal Notes,NA,2013.12.51,William Waite,Notepad containing handwritten game notes. Jeans logo on cover.
@@ -534,7 +534,7 @@ Name,Medium,Type,Title,Author,Editor,Translator,Publisher,Year,Language,Genre,Id
 [Commodore VIC-20 - An Introduction to BASIC: Part 1],Printed Matter,Manual,Commodore VIC-20 - An Introduction to BASIC: Part 1,Andrew Colin,N/A,N/A,Commodore Business Machines,1981,English,BASIC (Programming Language)--Learner’s Guide,N/A,2014.01.320,Aaron Kuhn,Part of “The VIC Learning Series”
 [Commodore VIC-20 - Omega Race (Manual)],Printed Matter,Manual,Commodore VIC-20 - Omega Race (Manual),Bally Midway Manufacturing Company,N/A,N/A,Commodore Electronics,1982,English,Software--Instruction Sheet,N/A,2014.01.321,Bill Chapman,
 [Commodore VIC-20 - The Friendly Computer (Brochure)],Printed Matter,Manual,Commodore VIC-20 - The Friendly Computer,Commodore Computer,N/A,N/A,Commodore Computer,N/A,English,VIC-20 (Computer)--Brochure,L06VIC20,2014.01.322,Aaron Kuhn,
-[Macintosh - FileMaker 4: Setting the Data Management Standard - Owner’s Manual],Printed Matter,Manual,Macintosh - FileMaker 4: Setting the Data Management Standard - Owner’s Manual,Elisabeth Bayle and Grace Carney,N/A,N/A,Nashoba Systems,1988,English,FileMaker 4 (Software)--Owner’s Manual,,2014.01.???,Timothy P. Sweeney,Includes a letter from the donor with some notes on items given to the MAL.
+[Macintosh - FileMaker 4: Setting the Data Management Standard - Owner’s Manual],Printed Matter,Manual,Macintosh - FileMaker 4: Setting the Data Management Standard - Owner’s Manual,Elisabeth Bayle and Grace Carney,N/A,N/A,Nashoba Systems,1988,English,FileMaker 4 (Software)--Owner’s Manual,,,Timothy P. Sweeney,Includes a letter from the donor with some notes on items given to the MAL.
 [Cooking With HyperTalk 2.0],Printed Matter,Book,Cooking With HyperTalk 2.0,Dan Winkler and Scott Knaster,N/A,N/A,Bantam Books,1990,English,HyperTalk (Program)--Guide,ISBN 0-553-34738-1,2014.1.112,Miekal And,Disk Included
 [The Waite Group’s Tricks of the HyperTalk Masters],Printed Matter,Book,The Waite Group’s Tricks of the HyperTalk Masters,N/A,The Waite Group,N/A,Hayden Books,1989,English,HyperTalk (Program)--Guide,ISBN 0-672-48431-5,2014.1.113,Miekal And,
 [HyperTalk 2.0: The Book],Printed Matter,Book,HyperTalk 2.0: The Book,Dan Winkler and Scot Kamins,N/A,N/A,Bantam Books,1990,English,HyperTalk (Program)--Gude,ISBN 0-553-34737-3,2014.1.114,Miekal And,

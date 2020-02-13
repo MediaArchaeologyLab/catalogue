@@ -41,7 +41,7 @@ Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Se
 [litl Remote Control],Peripheral,Misc Parts,litl Remote Control,litl Remote Control,litl Webbook,N/A,N/A,N/A,2009,2014.1.124,,Chris Moody,In unopened container.
 [NEC Japan Chip],Peripheral,Misc Parts,A500-3000 ; CBM3 15093-02 053,NEC Japan Chip,N/A,N/A,A500-3000 ; CBM3 15093-02 053,366862-01,1993,2014.1.141,,Keith Moore,
 [AESP Phone to PS/2],Peripheral,Misc Parts,AESP Brand Adapter,AESP Phone to PS/2,Phone Line to PS/2,PS/2,N/A,N/A,N/A,2014.1.243,,Keith Moore,
-[Box of Parts (Donated by Keith Moore)],Peripheral,Misc Parts,Various Computer Parts,Box of Parts (Donated by Keith Moore),N/A,Expansion N/A,N/A,N/A,N/A,2014.1.257.1-2,,Keith Moore,Apple 5.25 Drive Controller (#2014.1.257.1) & Apple Disk II Interface Card (#2014.1.257.2).
+[Box of Parts (Donated by Keith Moore)],Peripheral,Misc Parts,Various Computer Parts,Box of Parts (Donated by Keith Moore),N/A,Expansion N/A,N/A,N/A,N/A,2014.1.257.1.2,,Keith Moore,Apple 5.25 Drive Controller (#2014.1.257.1) & Apple Disk II Interface Card (#2014.1.257.2).
 [Kryoflux],Peripheral,Misc Parts,Kryoflux,Kryoflux 3.5” Floppy Drive Controller,3.5” Floppy Drives,"USB, 34-pin IDC",N/A,N/A,2014,2015.02.91,,,
 [FC5025 5.25” Floppy Controller],Peripheral,Misc Parts,FC5025,FC5025 5.25” Floppy Controller,5.25” Floppy Drives,"USB, 34-pin IDC",N/A,N/A,2014,2015.02.92,,,
 [Raspberry Pi],Peripheral,Misc Parts,Raspberry Pi,Raspberry Pi,N/A,USB,"Raspberry Pi 2011, 12",12452,2011,2015.03.10,,,
