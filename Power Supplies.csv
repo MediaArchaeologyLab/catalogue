@@ -4,7 +4,7 @@ Macintosh Powerbook 160 Power Supply,Peripheral,Power Supply,Macintosh Powerbook
 Apple iBook G3 Power Supply,Peripheral,Power Supply,Apple iBook G3 Power Supply,Apple iBook G3 Power Supply,Apple iBook G3,N/A,N/A,N/A,N/A,2013.06.95,,,
 Apple iBook G4 Power Supply,Peripheral,Power Supply,Apple iBook G4 Power Supply,Apple iBook G4 Power Supply,Apple iBook G4,N/A,N/A,N/A,N/A,2013.06.96,,,
 MacBook Air Power Supply,Peripheral,Power Supply,MacBook Air Power Supply,MacBook Air Power Supply,MacBook Air,N/A,N/A,N/A,N/A,2013.06.97,,,
-Commodore 128 Power Supply,Peripheral,Power Supply,Commodore 128 Power Supply,Commodore 128 Power Supply,Commodore 128,N/A,N/A,N/A,N/A,2013.07.235,,,
+Commodore 128 Power Supply,Peripheral,Power Supply,Commodore 128 Power Supply,Commodore 128 Power Supply,Commodore 128,N/A,N/A,N/A,N/A,2013.07.235,,,:
 Commodore 64 Power Supply,Peripheral,Power Supply,Commodore 64 Power Supply,Commodore 64 Power Supply,Commodore 64,N/A,N/A,N/A,N/A,2013.07.236,,,2013.07.237-239.
 Atari Disk Drive Power Supply,Peripheral,Power Supply,Atari Disk Drive Power Supply,Atari Disk Drive Power Supply,Atari Disk Drives,N/A,N/A,N/A,N/A,2013.07.240,,,
 Hewlett Packard AC Power Adapter,Peripheral,Power Supply,Hewlett Packard AC Power Adapter,Hewlett Packard AC Power Adapter,Hewlett Packard Computers,N/A,N/A,N/A,N/A,2013.07.244,,,
@@ -20,13 +20,13 @@ Apple PowerBook Duo Battery Recharger,Peripheral,Power Supply,Apple PowerBook Du
 Apple PowerBook Duo AC Adapter,Peripheral,Power Supply,Apple PowerBook Duo AC Adapter,Apple PowerBook Duo AC Adapter,Apple PowerBook Duo,N/A,N/A,N/A,N/A,2013.07.363,,Deena Larsen,
 Apple PowerBook Duo Battery Pack,Peripheral,Power Supply,Apple PowerBook Duo Battery Pack,Apple PowerBook Duo Battery Pack,Apple PowerBook Duo,N/A,N/A,N/A,N/A,2013.07.369,,Deena Larsen,
 CAT (Novation Inc) AC Adapter,Peripheral,Power Supply,CAT (Novation Inc) AC Adapter,CAT (Novation Inc) AC Adapter,CAT (Novation Inc),AC Adapter,901017,0479,N/A,2013.10.100,,Brad Feld,
-Apple IIc Power Supply and Adapter,Peripheral,Power Supply,Apple IIc Power Supply and Adapter,Apple IIc Power Supply and Adapter,Apple IIc,N/A,A2M4017,N/A,N/A,2013.12.58,,,
-Nintendo 64 AC Power Supply,Peripheral,Power Supply,Nintendo 64 AC Power Supply,Nintendo 64 Power Supply,Nintendo 64,N/A,NUS-002 (USA),98X22 E8,1996,2014.05.3,2014-05-3,Mark Morris,
+Apple IIc Power Supply and adapter,Peripheral,Power Supply and Adapter,Apple IIc Power Supply and Adapter,Apple IIc Power Supply and Adapter,Apple IIc,N/A,A2M4017,N/A,N/A,2013.12.58,,Purchased by Lori Emerson,
+Nintendo 64 AC Power Supply,Peripheral,Power supply,Nintendo 64 AC power supply,Nintendo 64 Power Supply,Nintendo 64,N/A,NUS-002 (USA),98X22 E8,1996,2014.05.3,2014-05-3,Mark Morris,
 Motorola AC Power Supply,Peripheral,Power Supply,Motorola AC Power Supply,Motorola AC Power Supply,N/A,IEC C7/C8,163-0045,9217,N/A,2014.09.118,,,
 Apple Portable StyleWriter Power Adapter,Peripheral,Power Supply,Apple Portable StyleWriter Power Adapter,Apple Portable StyleWriter Power Adapter,Apple Portable StyleWriter,N/A,M1750,N/A,N/A,2014.09.120,,,
-litl AC PC Adapter,Peripheral,Power Supply,litl AC PC Adapter,litl AC PC Adapter,litl Webbook,20v Adapter PC,N/A,N/A,2009,2014.1.121,2014-01-09,Chris Moody,2014.1.125.
-litl AC Adapter,Peripheral,Power Supply,litl AC Adapter,litl AC Adapter,litl Webbook,100-240V Adapter,N/A,N/A,2009,2014.1.122,,Chris Moody,2014.1.126.
-IBM AC Power Adapter,Peripheral,Power Supply,ICM AC Power Adapter,IBM AC Power Adapter,IBM Laptop PCs,AC 100-240v to DC19V,11J8627,NB049138796,N/A,2014.1.3,2014-01-02,“Anonymous”,
+litl AC PC Adapter,Peripheral,Power Supply,litl AC PC Adapter,litl AC PC Adapter,litl webbook,20v Adapter PC,N/A,N/A,2009,2014.1.121,2014-01-09,Chris Moody,2014.1.125.
+litl AC Adapter,Peripheral,Power Supply,litl AC adapter,litl AC Adapter,litl webbook,100-240V Adapter,N/A,N/A,2009,2014.1.122,,Chris Moody,2014.1.126.
+IBM AC Power Adapter,Peripheral,Power Supply,ICM AC Power Adapter,IBM AC Power Adapter,IBM Laptop PCs,AC 100-240v to DC19V,11J8627,NB049138796,Unknown (late 90s),2014.1.3,2014-01-02,“Anonymous”,
 iBook Rechargeable Battery,Peripheral,Power Supply,iBook Rechargeable Battery,iBook Rechargeable Battery,iBook,N/A,M7426,NI94046VFWW,1999,2015.06.17,,Rafael Fajardo,
 iBook Rechargeable Battery,Peripheral,Power Supplies,iBook Rechargeable Battery,iBook Rechargeable Battery,iBook,N/A,M7426,NI94046VFWW,1999,2015.06.17,,Rafael Fajardo,
 Apple 45W Power Adapter,Peripheral,Power Supplies,Apple 45W Power Adapter,Apple 45W Power Adapter,Apple iBook G4,,M7332,LQ41700218KT4C,2003,2018.03.32,,,

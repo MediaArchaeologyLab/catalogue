@@ -25,5 +25,5 @@ Logitech MouseMan,Peripheral,Mouse,"Logitech MouseMan, MousePort Version",Logite
 KDS Mouse,Peripheral,Mouse,KDS Mouse,KDS Mouse,PC,PS/2,MO15K,36L34273,Unknown,2014.08.16,,Brad Feld,
 Dell IntelliMouse,Peripheral,Mouse,Dell IntelliMouse,Dell IntelliMouse,PC,PS/2,X06-08477,63618-OEM-0007194-1,2011,2014.08.17,,Brad Feld,
 Dell/Logitech M-S28,Peripheral,Mouse,Dell/Logitech M-S28,Dell/Logitech M-S28,PC,PS/2,M-S28,LC4141005031,1993,2014.08.18,,Brad Feld,
-PC Mouse,Peripheral,Mouse,PC Mouse,PC Mouse,PC compatible computers,PS/2 port,MO42KC,043608343,Unknown,2014.1.2,2014-01-02,“Anonymous”,
-Apple Mouse II,Peripheral,Mouse,Apple Mouse II,Apple Mouse II,8-pin port,8-pin port,M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,
+PC Mouse,Peripheral,Wheel Mouse,PC Mouse,PC Mouse,PC compatible computers,PS/2 port,MO42KC,043608343,Unknown,2014.1.2,2014-01-02,“Anonymous”,
+Apple Mouse II,Peripheral,Mouse,Apple Mouse II,Apple Mouse II,8-pin port,8-pin port, M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,
