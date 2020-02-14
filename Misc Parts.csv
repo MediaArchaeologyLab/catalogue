@@ -4,11 +4,11 @@ RF Adapter for Commodore Video Output,Peripheral,Misc Parts,RF Adapter for Commo
 APC Back-UPS Pro 650 UPS,Peripheral,Misc Parts,APC Back-UPS Pro 650 UPS,APC Back-UPS Pro 650 UPS,N/A,Serial,N/A,N/A,N/A,2013.07.242,,,
 CD-ROM Flipping Storage Unit,Peripheral,Misc Part,Bib Brand CD-ROM Flipping Storage Unit,CD-ROM Flipping Storage Unit,CDs,N/A,N/A,/A,N/A,2013.07.279,,,
 Texas Instruments 99/4A Video Modulator,Peripheral,Misc Parts,Texas Instruments 99/4A Video Modulator,Texas Instruments 99/4A Video Modulator,Texas Instruments 99/4A,N/A,N/A,N/A,N/A,2013.07.285,,,
-TurboNet by Nuvotech - Dial-up Signal Controller,Peripheral,Misc Parts,TurboNet,TurboNet by Nuvotech - Dial-up Signal Controller,N/A,8-pin Serial and Dual Phone Line Connections,N/A,N/A,N/A,2013.07.358,,,
+TurboNet by Nuvotech - Dial-up Signal Controller,Peripheral,Misc Parts,TurboNet,TurboNet by Nuvotech - Dial-up Signal Controller,N/A,8-pin Serial and Dual Phone Line Connections,N/A,8 pin serial and dual phone line connections,N/A,2013.07.358,,,
 TurboNet ST by Focus,Peripheral,Misc Parts,TurboNet ST,TurboNet ST by Focus,N/A,N/A,N/A,N/A,N/A,2013.07.360,,,
-Adaptec Hard Disk Controller,Peripheral,Misc Parts,Adaptec Hard Disk Controller,Adaptec Hard Disk Controller,N/A,N/A,Assy 401406-00 Rev E,N/A,1985,2013.10.53,,Brad Feld,Broken.
-Scott Instruments VET-2 - Microphone to PC Connection,Peripheral,Misc Parts,VET-2,Scott Instruments VET-2 - Microphone to PC Connection,Shure Professional Unidirectional Head-Worn Dynamic Microphone (2013.10.62 or similar microphone),10-prong Serial Port,VET/2,SI-A-000304,N/A,2013.10.62,,Brad Feld,
-Shure Professional Unidirectional Head-Worn Dynamic Microphone,Peripheral,Misc Parts,Unidirectional Head-Worn Dynamic Microphone,Shure Professional Unidirectional Head-Worn Dynamic Microphone,Scott Instruments VET - Microphone to PC Connection,3-prong Microphone Jack,SM10A,N/A,N/A,2013.10.86,,Brad Feld,
+Adaptec Hard Disk Controller,Peripheral,Misc Parts,Adaptec Hard Disk Controller,Adaptec Hard Disk Controller,Unknown,Unknown,Assy 401406-00 Rev E,N/A,1985,2013.10.53,,Brad Feld,Broken.
+Scott Instruments VET-2 - Microphone to PC Connection,Peripheral,Misc Parts,VET-2,Scott Instruments VET-2 - Microphone to PC Connection,Shure Professional Unidirectional Head-Worn Dynamic Microphone (2013.10.62 or similar microphone),10-prong Serial Port,VET/2,SI-A-000304,Unlisted,2013.10.62,,Brad Feld,
+Shure Professional Unidirectional Head-Worn Dynamic Microphone,Peripheral,Misc Parts,Unidirectional Head-Worn Dynamic Microphone,Shure Professional Unidirectional Head-Worn Dynamic Microphone,Scott Instruments VET - microphone to pc connection (2013.10.62),3-prong Microphone Jack,SM10A,N/A,Unlisted,2013.10.86,,Brad Feld,
 Bag of Circuit Boards (Donated by Brad Feld),Peripheral,Misc Parts,Bag of Circuit Boards,Bag of Circuit Boards (Donated by Brad Feld),N/A,N/A,“#948”,N/A,N/A,2013.12.27,,Brad Feld,Bag contains circuit boards.
 Box of Parts (Donated by John Hopkins),Peripheral,Misc Parts,Various Computer Parts,Box of Parts (Donated by John Hopkins),N/A,N/A,N/A,N/A,N/A,2014.06.10,,John Hopkins,"Internal Hard Drives, RAM Memory Pieces, & External Connections."
 Micrografix Parallel Graphics Interface (for Commodore 64 and VIC-20),Peripheral,Misc Parts,Micrografix Parallel Graphics Interface (for Commodore 64 and VIC-20),Micrografix Parallel Graphics Interface (for Commodore 64 and VIC-20),N/A,N/A,MW350; Micro R & D,DPU82MMW-350,N/A,2014.06.26,,Keith Moore,
@@ -32,15 +32,15 @@ Intel i486 DX2 Processor,Peripheral,Misc Parts,Intel i486 DX2 Processor,Intel i4
 Intel Pentium Processor,Peripheral,Misc Parts,Intel Pentium Processor,Intel Pentium Processor,PC,N/A,A80502133,L7064764-1452,1993,2014.09.87,,,
 Intel Pentium 166 Processor,Peripheral,Misc Parts,Intel Pentium 166 Processor,Intel Pentium 166 Processor,PC,N/A,BP80502166,L6421775,1996,2014.09.88,,,
 Computer History Museum Mousepad,Peripheral,Misc Parts,Computer History Museum Mousepad,Computer History Museum Mousepad,N/A,N/A,N/A,N/A,2014,2014.09.89,,,
-Memorex Mega 4GB TravelDrive,Peripheral,Misc Parts,Memorex Mega 4GB TravelDrive,Memorex Mega 4GB TravelDrive,PC/Mac,USB 2.0,32509380,N/A,2007,2014.09.95,,,
-Sohoware 5-Port Ethernet Hub,Peripheral,Misc Parts,Sohoware 5-Port Ethernet Hub,Sohoware 5-Port Ethernet Hub,N/A,RJ-45,ND-4205,(?)39340998,N/A,2014.09.95,,,
+Memorex Mega 4GB TravelDrive,Peripheral,Misc Parts,Memorex Mega 4GB TravelDrive,Memorex Mega 4GB TravelDrive,PC/Mac,USB 2.0,32509380,(?)39340998,2007,2014.09.95,,,
+Sohoware 5-Port Ethernet Hub,Peripheral,Misc Parts,Sohoware 5-Port Ethernet Hub,Sohoware 5-Port Ethernet Hub,PC/Mac,RJ-45,ND-4205,(?)39340998,2007,2014.09.95,,,
 Targus Ultra Mini 4-Port USB 2.0 Hub,Peripheral,Misc Parts,Targus Ultra Mini 4-Port USB 2.0 Hub,Targus Ultra Mini 4-Port USB 2.0 Hub,N/A,USB 2.0,PAUH217,0503002942,2010,2014.09.96,,,
 Belkin Hi-Speed USB 2.0 4-Port Hub,Peripheral,Misc Parts,Belkin Hi-Speed USB 2.0 4-Port Hub,Belkin Hi-Speed USB 2.0 4-Port Hub,N/A,USB 2.0,F5U233,C500918250,N/A,2014.09.97,,,
 SanDisk ImageMate CompactFlash Reader,Peripheral,Misc Parts,SanDisk ImageMate CompactFlash Reader,SanDisk ImageMate CompactFlash Reader,N/A,USB 2.0,SDDR-75,0314706,2002,2014.09.98,,,
 Lexar 64MB CompactFlash Memory Card,Peripheral,Misc Parts,Lexar 64MB CompactFlash Memory Card,Lexar 64MB CompactFlash Memory Card,N/A,Serial (USB 2.0 enabled),2177,N/A,2001,2014.09.99,,,
-litl Remote Control,Peripheral,Misc Parts,litl Remote Control,litl Remote Control,litl Webbook,N/A,N/A,N/A,2009,2014.1.124,,Chris Moody,In unopened container.
-NEC Japan Chip,Peripheral,Misc Parts,A500-3000 ; CBM3 15093-02 053,NEC Japan Chip,N/A,N/A,A500-3000 ; CBM3 15093-02 053,366862-01,1993,2014.1.141,,Keith Moore,
-AESP Phone to PS/2,Peripheral,Misc Parts,AESP Brand Adapter,AESP Phone to PS/2,Phone Line to PS/2,PS/2,N/A,N/A,N/A,2014.1.243,,Keith Moore,
+litl Remote Control,Peripheral,Misc Parts,litl remote control,litl Remote Control,litl Webbook,unknown,N/A,N/A,2009,2014.1.124,,Chris Moody,In unopened container.
+NEC Japan Chip,Peripheral,Misc Parts,A500-3000 ; CBM3 15093-02 053,NEC Japan Chip,Unknown,Unknown,A500-3000 ; CBM3 15093-02 053,366862-01,1993,2014.1.141,,Keith Moore,
+AESP Phone to PS/2,Peripheral,Misc Parts,AESP brand adapter,AESP Phone to PS/2,Phone Line to PS/2,PS/2,N/A,N/A,Unknown,2014.1.243,,Keith Moore,
 Box of Parts (Donated by Keith Moore),Peripheral,Misc Parts,Various Computer Parts,Box of Parts (Donated by Keith Moore),N/A,Expansion N/A,N/A,N/A,N/A,2014.1.257.1.2,,Keith Moore,Apple 5.25 Drive Controller (#2014.1.257.1) & Apple Disk II Interface Card (#2014.1.257.2).
 Kryoflux,Peripheral,Misc Parts,Kryoflux,Kryoflux 3.5” Floppy Drive Controller,3.5” Floppy Drives,"USB, 34-pin IDC",N/A,N/A,2014,2015.02.91,,,
 FC5025 5.25” Floppy Controller,Peripheral,Misc Parts,FC5025,FC5025 5.25” Floppy Controller,5.25” Floppy Drives,"USB, 34-pin IDC",N/A,N/A,2014,2015.02.92,,,

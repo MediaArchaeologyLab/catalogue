@@ -1,62 +1,61 @@
 Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-Foldable Keyboard for Toshiba,Peripheral,Keyboard,Product Belkin G700 Foldable Keyboard for Toshiba,User Belkin G700 Foldable Keyboard,,Proprietary,G700,99G409100133QS01398 F8A1500,,,,Patrick Martin and Adam Wilson,
-IBM Keyboard,Peripheral,Keyboard,Product IBM Keyboard,User ,,,,,,2013.06.2,,,
-Atari Joystick,Peripheral,Joystick,Product ,User Atari Joystick,,Attachable 9-pin serial connection,,,,2013.07.356,,,
-Dell Serial Mouse,Peripheral,Mouse,Product ,User Dell Mouse,,9-pin serial port,,,,2013.07.357,,,
-TurboNet by Nuvotech - Dial-up signal controller,Peripheral,,Product ,User TurboNet,,,,8 pin serial and dual phone line connections,,2013.07.358,,,
-FriendlyNet by Asante,Peripheral,Ethernet Wall Outlet Adapter,Product FriendlyNet,User ,,,,,,2013.07.359,,,
-TurnoNet ST by Focus,Peripheral,Serial Controller for Dial-up line control,Product ,User TurboNet ST,,,,,,2013.07.360,,,
-Gemini Dual Paddle Controller for Atari Systems,Peripheral,Paddle Controller,Product ,User Gemini Paddles,,,,,,2013.07.361,,,
-Mouse for Apple Macintosh SE,Peripheral,Mouse,Product Mouse,User N/A,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.10,,Brad Feld,
-AC Adapter - CAT (Novation Inc),Peripheral,AC Adapter,Product ,User N/A,,AC Adapter,901017,0479,N/A,2013.10.100,,Brad Feld,
-Printer Cable for Laser Writer II,Peripheral,Printer Cable,Product Cable,User N/A,Laser Writer II,Serial,N/A,N/A,~1985,2013.10.12,,Brad Feld,
-Colorpak Graphics Card,Peripheral,Graphics Card,Product Colorpak Hi-Res Graphics Card,User N/A,PC,Unknown,ColorPak,SN 11 000251,1984,2013.10.14,,Brad Feld,
-Adaptec Hard Disk Controller,Peripheral,Peripheral Component Controller,Product Hard Disk Controller,User N/A,Unknown,Unknown,Assy 401406-00 Rev E,N/A,1985,2013.10.53,,Brad Feld,BROKEN
-NeXT Mouse,Peripheral,Mouse,Product NeXT Mouse,User N/A,NeXT Systems,Proprietary NeXT Connection,Part 193,NAAF 0210790,1988,2013.10.54,,Brad Feld,Some Damange
-NeXT Keyboard,Peripheral,Keyboard,Product Keyboard,User N/A,for NeXT monitor model N4000A,Proprietary NeXT connector,Part 2122,ABP5204141,1988,2013.10.55,,Brad Feld,
-NeXT Keyboard,Peripheral,Keyboard,Product NeXT Keyboard,User N/A,“Listed accessory for use with NeXT monitor model N4000A and NeXT Sound Box model N4004”,Proprietary NeXT serial connection,Part 2234,ABU6200725,1988,2013.10.59,2013-12-18,Brad Feld,
-NeXT Mouse,Peripheral,Mouse,Product NeXT Mouse,User N/A,"“Listed Accessory for use with NeXT Monitor, model N4000A”",Proprietary NeXT Serial connection,Part 193,AAF 1221076,1988,2013.10.60,,Brad Feld,
-Scott Instruments VET-2 - microphone to pc connection,Peripheral,Scott Instruments VET - microphone to pc connection,Product VET-2,User N/A,Shure Professional Unidirectional Head-Worn Dynamic Microphone (2013.10.62 or similar microphone),10-prong serial port,VET/2,SI-A-000304,Unlisted,2013.10.62,,Brad Feld,
-Apple Lisa Keyboard,Peripheral,Keyboard,Product Apple Lisa Keyboard,User N/A,Apple Lisa,Proprietary connection,N/A,N/A,~1983,2013.10.7,,Brad Feld,
-Shure Professional Unidirectional Head-Worn Dynamic Microphone,Peripheral,Microphone,Product Unidirectional Head-Worn Dynamic Microphone,User N/A,Scott Instruments VET - microphone to pc connection (2013.10.62),3 prong microphone jack,SM10A,N/A,Unlisted,2013.10.86,,Brad Feld,
-"COMPAQ keyboard, Deskpro 286",Peripheral,Keyboard,Product Deskpro 286,User ,,5-pin serial,Deskpro 286,N/A,N/A,2013.10.87,,Brad Feld,
-Keyboard for Apple Macintosh SE,Peripheral,Keyboard,Product Keyboard,User N/A,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.9,,Brad Feld,
-Pin “Ask me about INTERnet”,Peripheral,Pin,Product Pin,User N/A,Pin,N/A,N/A,N/A,N/A,2013.12.114,,Kenneth Kuhn,
-Pin: “I heart Nonstop”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.115,,No Donor Listed,25 year anniversary XYPRO
-Pin: “Are You a NetWare Pro”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.116,,Kenneth Kuhn,N/A
-Pin: “Sticking with DOS”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.117,,Kenneth Kuhn,
-Pin: “RSA Public Key Crypsosystem”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.118,,Kenneth Kuhn,
-Pin: “NO SNEAKERNET”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.119,,Kenneth Kuhn,
-Pin: “When You Think Software Think IBM”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.120,,Kenneth Kuhn,
-Pin: “NetWare and OS/2”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.121,,Kenneth Kuhn,
-Pin: “Windows & Unix Working Together”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.122,,Kenneth Kuhn,
-Pin: “The Sniffer LAN/WAN Analyzer”,Peripheral,Pin,Product N/A,User N/A,N/A,N/A,N/A,N/A,N/A,2013.12.123,,Kenneth Kuhn,
-CAT Novation Modem,Peripheral,Modem,Product CAT Modem,User N/A,N/A,25-pin Serial,CAT,92394,Unknown. Possibly 1978,2013.12.19,,Brad Feld,
-Bag Containing 3 Circuit Boards,Peripheral,Bag Containing 3 Circuit Boards,Product Circuit boards,User N/A,Possibly for Apple systems,N/A,N/A,N/A,N/A,2013.12.27,,Brad Feld,"Two circuit boards for apple systems, one likely for apple system and manufactured by Scott Industries. Located in Brad Feld Accessioned Peripherals Container"
-Apple Computer Circuit Board (#948),Peripheral,Circuit Board,Product Unknown,User N/A,Unknown,N/A,“#948”,N/A,N/A,2013.12.27,,Brad Feld,
-Circuit Boards 2x,Peripheral,Circuit Board,Product Unknown,User N/A,,N/A,N/A,N/A,N/A,2013.12.28,,Brad Feld,Located in Brad Feld Accessioned Peripherals Container. Two circuit boards contained in this bubble wrap. Possibly for Apple systems.
-Apple IIc Power Supply and adapter,Peripheral,Power Supply and Adapter,Product ,User ,Apple IIc,,A2M4017,,,2013.12.58,,Purchased by Lori Emerson,
-Mouse for Apple IIc,Peripheral,Mouse,Product Mouse of Apple IIc,User ,,9-port serial,A2M4015,048735,,2013.12.59,,Purchased by Lori Emerson,
-Nintendo 64 controller,Peripheral,Video game controller,Product Nintendo 64 Controller,User N64 controller,Nintendo 64,N/A,NUS-005,N/A,1996,2014.05.2,,Mark Morris,
-Nintendo 64 AC Power Supply,Peripheral,Power supply,Product Nintendo 64 AC power supply,User N64 power supply,Nintendo 64,N/A,NUS-002(USA),98X22 E8,1996,2014.05.3,,Mark Morris,
-Container for litl with included printed matter,Peripheral,Container with printed matter,Product litl container,User N/A,,containter and cards,N/A,N/A,2009,2014.1.120,,Chris Moody,
-AC adapter,Peripheral,AC adapter,Product litl AC adapter,User N/A,litl webbook,20v Adapter to PC,N/A,N/A,2009,2014.1.121,2014-01-09,Chris Moody,
-AC adapter,Peripheral,AC adapter,Product litl AC adapter,User N/A,litl webbook,100-240V to adapter,N/A,N/A,2009,2014.1.122,,Chris Moody,
-litl Remote Control,Peripheral,Remote Control,Product litl remote control,User N/A,litl webbook,unknown,N/A,N/A,2009,2014.1.124,,Chris Moody,unopened container.
-AC adapter,Peripheral,AC adapter,Product litl AC adapter,User N/A,litl webbook,20v Adapter to PC,N/A,N/A,2009,2014.1.125,2014-01-09,Chris Moody,
-AC adapter,Peripheral,AC adapter,Product litl AC adapter,User N/A,litl webbook,100-240V to adapter,N/A,N/A,2009,2014.1.126,,Chris Moody,
-Case for Dell Axim X5,Peripheral,Case,Product Axim X5 Leather Case,User N/A,Dell Axim X5,N/A,N/A,N/A,~2002,2014.1.128,,Chris Moody,
-Cloth case Handspring Palm Treo,Peripheral,Cloth case,Product Case,User N/A,Handpsring Treo,N/A,N/A,N/A,~2002,2014.1.130,,Chris Moody,clippable onto belt
-NEC Japan Chip,Peripheral,Chip,Product A500-3000 ; CBM3 15093-02 053,User N/A,Unknown,Unknown,A500-3000 ; CBM3 15093-02 053,366862-01,1993,2014.1.141,,Keith Moore,
-Mouse - Generic brand,Peripheral,Wheel Mouse,Product Mouse,User N/A,PS/2 ports,PS/2,MO42KC,043608343,Unknown,2014.1.2,2014-01-02,“Anonymous”,
-AESP phone to PS/2,Peripheral,Adapter,Product AESP brand adapter,User N/A,phone line to ps/2,ps/2,N/A,N/A,Unknown,2014.1.243,,Keith Moore,
-WICO Joystick,Peripheral,Peripheral Joystick,Product Command Control,User N/A,Atari,9-pin,Command Control,N/A,circa 1983,2014.1.244,,Keith Moore,
-Apple 5.25 Drive Controller,Peripheral,Expansion Card,Product 5.25 Drive Controller,User N/A,Expansion Card,Expansion port to 19-pin port,655-0101-D,N/A,1987,2014.1.257,,Keith Moore,
-Apple Disk ][ Interface Card,Peripheral,Expansion Card,Product Disk ][ Interface Card,User N/A,Apple II systems,Expansion card to 20-pin ports,650-X104,N/A,1978,2014.1.258,,Keith Moore,Drive expansion card to support up to two drives
-Apple Mouse II,Peripheral,Mouse,Product Mouse,User Apple Mouse II,8-pin port,8-pin port, M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,
-AC Power Adapter - IBM,Peripheral,Power Adapter,Product ICM AC Power Adapter,User N/A,IBM Laptop PCs,AC 100-240v to DC19V,11J8627,NB049138796,Unknown (late 90s),2014.1.3,2014-01-02,“Anonymous”,
-Wireless Card for IBM ThinkPad,Peripheral,Wireless 11g PCMCIA Card,Product WPC-0301,User Wireless Card,Laptop PCs,PCMCIA Card Bus,WPC-0301,WPC-0301 07050401096V4,Unknown. Late 90s?,2014.1.4,2014-01-02,“Anonymous”,Fully functional
-Sino-American AC Adaptor,Peripheral,AC Adapter,Product AC Adaptor Power Supply,User N/A,Timex Sinclair ZX81,AC connector,9-10,SA-48 ; 0183,Unknown,2014.1.81,,Gary and Colleen Rynearson,
-Connectix/Logitech QuickCam,Peripheral,Webcam,Product QuickCam,User QuickCam (not webcam),Apple Macintosh,USB,QuickCam,N/A,1994,2014.2.2,,John Hopkins,
-Connectix/Logitech QuickCam,Peripheral,Webcam,Product QuickCam,User QuickCam (not webcam),Apple Macintosh,USB,QuickCam,N/A,1994,2014.2.3,,John Hopkins,
-Nintendo - Power Pad,Peripheral,Floor Mat Game Controller,Product Power Pad,User Power Pad,Nintendo Entertainment System,N/A,N/A,N/A,1988,2014.4.1,,,
+IBM Keyboard (for Apple I),Peripheral,Keyboard,IBM Keyboard,,Apple I,,,,,2013.06.2,2013-05-30,,
+Atari Joystick,Peripheral,Joystick,,Atari Joystick,Atari systems,Attachable 9-pin serial connection,,,,2013.07.356,,,
+Dell Serial Mouse,Peripheral,Mouse,,Dell Mouse,Dell computers,9-pin serial port,,,,2013.07.357,,,
+TurboNet by Nuvotech - Dial-up Signal Controller,Peripheral,Misc Parts,,TurboNet,N/A,8-pin Serial and Dual Phone Line Connections,N/A,8 pin serial and dual phone line connections,N/A,2013.07.358,,,
+FriendlyNet by Asante,Peripheral,Ethernet Wall Outlet Adapter,FriendlyNet,,,,,,,2013.07.359,,,
+TurnoNet ST by Focus,Peripheral,Serial Controller for Dial-up line control,,TurboNet ST,N/A,N/A,N/A,N/A,N/A,2013.07.360,,,
+Gemini Dual Paddle Controller for Atari Systems,Peripheral,Paddle Controller,,Gemini Paddles,Atari systems,,,,,2013.07.361,,,
+Mouse for Apple Macintosh SE,Peripheral,Mouse,Mouse,N/A,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.10,,Brad Feld,
+AC Adapter - CAT (Novation Inc),Peripheral,AC Adapter,,N/A,CAT (Novation Inc),AC Adapter,901017,0479,N/A,2013.10.100,,Brad Feld,
+Printer Cable for Laser Writer II,Peripheral,Printer Cable,Cable,N/A,Laser Writer II,Serial,N/A,N/A,~1985,2013.10.12,,Brad Feld,
+Colorpak Graphics Card,Peripheral,Graphics Card,Colorpak Hi-Res Graphics Card,N/A,PC,Unknown,ColorPak,SN 11 000251,1984,2013.10.14,,Brad Feld,
+Adaptec Hard Disk Controller,Peripheral,Peripheral Component Controller,Hard Disk Controller,N/A,Unknown,Unknown,Assy 401406-00 Rev E,N/A,1985,2013.10.53,,Brad Feld,Broken.
+NeXT Mouse,Peripheral,Mouse,NeXT Mouse,N/A,NeXT Systems,Proprietary NeXT Connection,Part 193,NAAF 0210790,1988,2013.10.54,,Brad Feld,Some Damange
+NeXT Keyboard,Peripheral,Keyboard,Keyboard,N/A,for NeXT monitor model N4000A,Proprietary NeXT Connector,Part 2122,ABP5204141,1988,2013.10.55,,Brad Feld,
+NeXT Keyboard,Peripheral,Keyboard,NeXT Keyboard,N/A,“Listed accessory for use with NeXT monitor model N4000A and NeXT Sound Box model N4004”,Proprietary NeXT Serial Connection,Part 2234,ABU6200725,1988,2013.10.59,2013-12-18,Brad Feld,
+NeXT Mouse,Peripheral,Mouse,NeXT Mouse,N/A,"“Listed Accessory for use with NeXT Monitor, model N4000A”",Proprietary NeXT Serial connection,Part 193,AAF 1221076,1988,2013.10.60,,Brad Feld,
+Scott Instruments VET-2 - Microphone to PC Connection,Peripheral,Scott Instruments VET - microphone to pc connection,VET-2,N/A,Shure Professional Unidirectional Head-Worn Dynamic Microphone (2013.10.62 or similar microphone),10-prong Serial Port,VET/2,SI-A-000304,Unlisted,2013.10.62,,Brad Feld,
+Apple Lisa Keyboard,Peripheral,Keyboard,Apple Lisa Keyboard,N/A,Apple Lisa,Proprietary Connection,N/A,N/A,~1983,2013.10.7,,Brad Feld,
+Shure Professional Unidirectional Head-Worn Dynamic Microphone,Peripheral,Microphone,Unidirectional Head-Worn Dynamic Microphone,N/A,Scott Instruments VET - microphone to pc connection (2013.10.62),3 prong microphone jack,SM10A,N/A,Unlisted,2013.10.86,,Brad Feld,
+"COMPAQ keyboard, Deskpro 286",Peripheral,Keyboard,Deskpro 286,,,5-pin serial,Deskpro 286,N/A,N/A,2013.10.87,,Brad Feld,
+Keyboard for Apple Macintosh SE,Peripheral,Keyboard,Keyboard,N/A,Apple Macintosh SE,ADB,N/A,N/A,~1990,2013.10.9,,Brad Feld,
+Pin “Ask me about INTERnet”,Peripheral,Pin,Pin,N/A,Pin,N/A,N/A,N/A,N/A,2013.12.114,,Kenneth Kuhn,
+Pin: “I heart Nonstop”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.115,,No Donor Listed,25 year anniversary XYPRO
+Pin: “Are You a NetWare Pro”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.116,,Kenneth Kuhn,N/A
+Pin: “Sticking with DOS”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.117,,Kenneth Kuhn,
+Pin: “RSA Public Key Crypsosystem”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.118,,Kenneth Kuhn,
+Pin: “NO SNEAKERNET”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.119,,Kenneth Kuhn,
+Pin: “When You Think Software Think IBM”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.120,,Kenneth Kuhn,
+Pin: “NetWare and OS/2”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.121,,Kenneth Kuhn,
+Pin: “Windows & Unix Working Together”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.122,,Kenneth Kuhn,
+Pin: “The Sniffer LAN/WAN Analyzer”,Peripheral,Pin,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2013.12.123,,Kenneth Kuhn,
+CAT Novation Modem,Peripheral,Modem,CAT Modem,N/A,Apple II,25-pin Serial,CAT,92394,Unknown. Possibly 1978,2013.12.19,,Brad Feld,
+Bag Containing 3 Circuit Boards,Peripheral,Bag Containing 3 Circuit Boards,Circuit boards,N/A,Possibly for Apple systems,N/A,N/A,N/A,N/A,2013.12.27,,Brad Feld,"Two circuit boards for apple systems, one likely for apple system and manufactured by Scott Industries. Located in Brad Feld Accessioned Peripherals Container"
+Apple Computer Circuit Board (#948),Peripheral,Circuit Board,Unknown,N/A,Unknown,N/A,“#948”,N/A,N/A,2013.12.27,,Brad Feld,
+Circuit Boards 2x,Peripheral,Circuit Board,Unknown,N/A,,N/A,N/A,N/A,N/A,2013.12.28,,Brad Feld,Located in Brad Feld Accessioned Peripherals Container. Two circuit boards contained in this bubble wrap. Possibly for Apple systems.
+Apple IIc Power Supply and adapter,Peripheral,Power Supply and Adapter,,,Apple IIc,N/A,A2M4017,N/A,N/A,2013.12.58,,Purchased by Lori Emerson,
+Mouse for Apple IIc,Peripheral,Mouse,Mouse of Apple IIc,,,9-port serial,A2M4015,048735,,2013.12.59,,Purchased by Lori Emerson,
+Nintendo 64 controller,Peripheral,Video game controller,Nintendo 64 Controller,N64 controller,Nintendo 64,N/A,NUS-005,N/A,1996,2014.05.2,,Mark Morris,
+Nintendo 64 AC Power Supply,Peripheral,Power supply,Nintendo 64 AC power supply,N64 power supply,Nintendo 64,N/A,NUS-002(USA),98X22 E8,1996,2014.05.3,2014-05-3,Mark Morris,
+Container for litl with included printed matter,Peripheral,Container with printed matter,litl container,N/A,litl Webbook,containter and cards,N/A,N/A,2009,2014.1.120,,Chris Moody,Includes printed matter.
+AC adapter,Peripheral,AC adapter,litl AC adapter,N/A,litl webbook,20v Adapter to PC,N/A,N/A,2009,2014.1.121,2014-01-09,Chris Moody,2014.1.125.
+litl AC Adapter,Peripheral,AC adapter,litl AC adapter,N/A,litl webbook,100-240V to adapter,N/A,N/A,2009,2014.1.122,,Chris Moody,2014.1.126.
+litl Remote Control,Peripheral,Remote Control,litl remote control,N/A,litl Webbook,unknown,N/A,N/A,2009,2014.1.124,,Chris Moody,In unopened container.
+AC adapter,Peripheral,AC adapter,litl AC adapter,N/A,litl webbook,20v Adapter to PC,N/A,N/A,2009,2014.1.125,2014-01-09,Chris Moody,
+AC adapter,Peripheral,AC adapter,litl AC adapter,N/A,litl webbook,100-240V to adapter,N/A,N/A,2009,2014.1.126,,Chris Moody,
+Case for Dell Axim X5,Peripheral,Case,Axim X5 Leather Case,N/A,Dell Axim X5,N/A,N/A,N/A,~2002,2014.1.128,,Chris Moody,
+Cloth case Handspring Palm Treo,Peripheral,Cloth case,Case,N/A,Handpsring Treo,N/A,N/A,N/A,~2002,2014.1.130,,Chris Moody,clippable onto belt
+NEC Japan Chip,Peripheral,Chip,A500-3000 ; CBM3 15093-02 053,N/A,Unknown,Unknown,A500-3000 ; CBM3 15093-02 053,366862-01,1993,2014.1.141,,Keith Moore,
+Mouse - Generic brand,Peripheral,Wheel Mouse,Mouse,N/A,PS/2 ports,PS/2 port,MO42KC,043608343,Unknown,2014.1.2,2014-01-02,“Anonymous”,
+AESP Phone to PS/2,Peripheral,Adapter,AESP brand adapter,N/A,Phone Line to PS/2,PS/2,N/A,N/A,Unknown,2014.1.243,,Keith Moore,
+WICO Joystick,Peripheral,Peripheral Joystick,Command Control,N/A,Atari,9-pin,Command Control,N/A,circa 1983,2014.1.244,,Keith Moore,
+Apple 5.25 Drive Controller,Peripheral,Expansion Card,5.25 Drive Controller,N/A,Expansion Card,Expansion port to 19-pin port,655-0101-D,N/A,1987,2014.1.257,,Keith Moore,
+Apple Disk ][ Interface Card,Peripheral,Expansion Card,Disk ][ Interface Card,N/A,Apple II systems,Expansion card to 20-pin ports,650-X104,N/A,1978,2014.1.258,,Keith Moore,Drive expansion card to support up to two drives
+Apple Mouse II,Peripheral,Mouse,Mouse,Apple Mouse II,8-pin port,8-pin port, M0100,G442MO10006295,1984,2014.1.260,,Keith Moore,
+AC Power Adapter - IBM,Peripheral,Power Adapter,ICM AC Power Adapter,N/A,IBM Laptop PCs,AC 100-240v to DC19V,11J8627,NB049138796,Unknown (late 90s),2014.1.3,2014-01-02,“Anonymous”,
+Wireless Card for IBM ThinkPad,Peripheral,Wireless 11g PCMCIA Card,WPC-0301,Wireless Card,Laptop PCs,PCMCIA Card Bus,WPC-0301,WPC-0301 07050401096V4,Unknown. Late 90s?,2014.1.4,2014-01-02,“Anonymous”,Fully functional.
+Sino-American AC Adaptor,Peripheral,AC Adapter,AC Adaptor Power Supply,N/A,Timex Sinclair ZX81,AC connector,9-10,SA-48 ; 0183,Unknown,2014.1.81,,Gary and Colleen Rynearson,
+Connectix/Logitech QuickCam,Peripheral,Webcam,QuickCam,QuickCam (not webcam),Apple Macintosh,USB,QuickCam,N/A,1994,2014.2.2,,John Hopkins,
+Connectix/Logitech QuickCam,Peripheral,Webcam,QuickCam,QuickCam (not webcam),Apple Macintosh,USB,QuickCam,N/A,1994,2014.2.3,,John Hopkins,
+Nintendo - Power Pad,Peripheral,Floor Mat Game Controller,Power Pad,Power Pad,Nintendo Entertainment System,N/A,N/A,N/A,1988,2014.4.1,2014-05-14,,
