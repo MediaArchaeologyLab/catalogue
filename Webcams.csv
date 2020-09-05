@@ -1,5 +1,5 @@
-Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-Connectix/Logitech QuickCam,Peripheral,Webcam,QuickCam,Connectix/Logitech QuickCam,Apple Macintosh,USB,QuickCam,N/A,1994,2014.02.02,,John Hopkins,2014.2.3.
-Apple Webcam,Peripheral,Webcam,Apple Webcam,Apple desktop webcam,Apple Macintosh,USB,N/A,N/A,N/A,2014.06.14,,John Hopkins,
-USB Webcam,Webcam,USB webcam,Logitech Webcam,,USB port,USB,V-U0019,LZ026SM,,2019.05.04,,Grace Wilson,has small stand incorporated
-USB Microphone,Microphone,USB Microphone,USB Microphone,,USB port,USB,590-0670,,,2019.06.13,,,
+Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes,image,360_image
+Connectix/Logitech QuickCam,Peripheral,Webcam,QuickCam,Connectix/Logitech QuickCam,Apple Macintosh,USB,QuickCam,,1994,2014-02-02,,John Hopkins,2014.2.3.,,
+Apple Webcam,Peripheral,Webcam,Apple Webcam,Apple desktop webcam,Apple Macintosh,USB,,,,2014-06-14,,John Hopkins,,,
+USB Webcam,Webcam,USB webcam,Logitech Webcam,,USB port,USB,V-U0019,LZ026SM,,2019-05-04,,Grace Wilson,has small stand incorporated,,
+USB Microphone,Microphone,USB Microphone,USB Microphone,,USB port,USB,590-0670,,,2019-06-13,,,,,

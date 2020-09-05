@@ -1,6 +1,6 @@
-Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-Razer DeathAdder Infrared Mac Gaming Mouse,Peripheral,Mouse,Razer DeathAdder Infrared Mac Gaming Mouse,Razer DeathAdder Infrared Mac Gaming Mouse,,USB,RZ01-0015,PM0828015200097,,,,,
-Apple II Mimco Stick Joystick and Paddle Controller,Peripheral,Game Controller,Apple II Mimco Stick Joystick and Paddle Controller,Apple II Mimco Stick Joystick and Paddle Controller,Apple II,16-pin ribbon,,,,2018.03.03,,,Toggle switch between Stick and Paddle is missing.
-HP Mouse,Peripheral,Mouse,HP Mouse,HP Mouse,,Serial port,5185-1212 Rev. A,LZSO4851967,,2018.03.28,,,
-ADB Mouse,Peripheral,Mouse,PowerComputing ADB Mouse,PowerComputing ADB Mouse,Apple clone,Serial port,55006,5L05445,,2018.03.29,,,
-Apple Pro Mouse,Peripheral,Mouse,Apple Pro Mouse,Apple Pro Mouse,Apple computers,USB,M5769,,2000,2018.03.30,,,
+Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes,image,360_image
+Razer DeathAdder Infrared Mac Gaming Mouse,Peripheral,Mouse,Razer DeathAdder Infrared Mac Gaming Mouse,Razer DeathAdder Infrared Mac Gaming Mouse,,USB,RZ01-0015,PM0828015200097,,,,,,,
+Apple II Mimco Stick Joystick and Paddle Controller,Peripheral,Game Controller,Apple II Mimco Stick Joystick and Paddle Controller,Apple II Mimco Stick Joystick and Paddle Controller,Apple II,16-pin ribbon,,,,2018-03-03,,,Toggle switch between Stick and Paddle is missing.,,
+HP Mouse,Peripheral,Mouse,HP Mouse,HP Mouse,,Serial port,5185-1212 Rev. A,LZSO4851967,,2018-03-28,,,,,
+ADB Mouse,Peripheral,Mouse,PowerComputing ADB Mouse,PowerComputing ADB Mouse,Apple clone,Serial port,55006,5L05445,,2018-03-29,,,,,
+Apple Pro Mouse,Peripheral,Mouse,Apple Pro Mouse,Apple Pro Mouse,Apple computers,USB,M5769,,2000,2018-03-30,,,,,

@@ -1,26 +1,26 @@
-Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes
-Apple IIc Monitor,Peripheral,Monitor,Apple IIc Monitor,Apple IIc Monitor,Apple IIc,N/A,G090H,T077678,1985,2013.06.17,2013-05-30,,
-Macintosh Centris 610 Monitor,Peripheral,Monitor,Macintosh 12” RGB Display,Macintosh Centris 610 Monitor,Macintosh Centris 610,N/A,N/A,N/A,1991,2013.06.20,2013-05-30,,
-USI Brand 1400/C Model Monitor,Peripheral,Monitor,USI Brand 1400/C Model Monitor,USI Brand 1400/C Model Monitor,N/A,N/A,1400/C,N/A,1983,2013.06.3,2103-05-30,,
-Commodore 1084S Monitor,Peripheral,Monitor,1084S Monitor,Commodore 1084S Monitor,"Commodore VIC-20, 64",RCA and Commodore Proprietary 8-Prong Outlet,1084S-P,182223,1989,2013.06.39,2013-05-30,,2013.06.51.
-Apple IIe Monitor,Peripheral,Monitor,Apple Color Composite Monitor (Monitor 100),Apple IIe Monitor,Apple IIe,N/A,A2M6020,N/A,1989,2013.06.4,2013-05-30,,
-Commodore 1902 Video Monitor,Peripheral,Monitor,Commodore 1902 Video Monitor,Commodore 1902 Video Monitor,Commodore 128,N/A,1902,N/A,1985,2013.06.56,2013-05-30,,
-Amiga Monitor,Peripheral,Monitor,Amiga Monitor,Amiga Monitor,Commodore Amiga,N/A,AG19XA-1080,85295994,1985,2013.06.61,2013-05-30,,
-IBM Personal Computer Display,Peripheral,Monitor,IBM Personal Computer Display,IBM Personal Computer Display,IBM 5150 PC,N/A,5151,0889756,1981,2013.06.64,2013-05-30,,
-Zenith Data Systems Video Monitor,Peripheral,Monitor,Zenith Data Systems Video Monitor,Zenith Data Systems Video Monitor,Franklin Ace 1000,N/A,ZVM-121,4045726,N/A,2013.06.77,2103-10-30,,"Franklin Ace 1000 is not working, so cannot complete testing."
-Taxan RGB Vision 210 Monitor,Peripheral,Monitor,RGB Vision 210,Taxan RGB Vision 210 Monitor,N/A,N/A,KS12R102S-U,N/A,N/A,2013.07.164,,,
-Commodore 1950 Monitor,Peripheral,Monitor,Commodore Color Monitor,Commodore 1950 Monitor,Commodore Computers,Power Cable and 15-Prong Connection,1950-A,R314BHFMD and CX0000827,1990,2013.07.167,2013-05-30,Keith Moore,14’’ Screen
-Dell Color LCD Monitor,Peripheral,Monitor,Dell Color LCD Monitor,Dell Color LCD Monitor,Dell PC,N/A,E152FPc,CN-OM1619-64180-41U-0X3S,N/A,2013.07.264,,,
-Comrex Video Monitor,Peripheral,Monitor,Comrex Video Monitor,Comrex Video Monitor,Texas Instruments TI-99/4A,N/A,CR-5500,Y2G 006919,1982,2013.09.4,2013-05-30,Keith Moore,‘Hacked’ monitor created for Texas Instruments TI-99/4A computer.
-Apple III Monitor,Peripheral,Monitor,Monitor ///,Apple III Monitor,Apple III,"Bullet Plug, Coaxial-In",A3M0039,Y2E 032882,1982,2013.10.4,,Brad Feld,2013.06.10.
-NeXT Monitor - MegaPixel Display,Peripheral,Monitor,NeXT Monitor - MegaPixel Display,NeXT Monitor - MegaPixel Display,NeXT Cube,"RCA Audio Out, Headphone Out, Keyboard Out, Proprietary Input for All Power and Data Connections",N4000A,AAA7019401,1991,2013.10.58,2013-10-30,Brad Feld,2013.06.67.
-NEC Character Display,Peripheral,Monitor,NEC Character Display,NEC Character Display,N/A,Video and Audio Input and Output (4x Bullet Plugs),PC-8041a,1730768J,1981,2013.12.61,,,
-NEC Color Monitor,Peripheral,Monitor,NEC Color Monitor,NEC Color Monitor,N/A,"Power Cable, Audio, and Video In-and-Out (4x Bullet Plugs)",JC-1215MA,3748420S,1984,2013.12.62,,,
-AppleColor RGD Monitor,Peripheral,Monitor,AppleColor RGD Monitor,AppleColor RGD Monitor,Macintosh,Apple Video,A2M6014,N7131377,1992,2015.03.08,,Mark Morris,
-Commodore 1084 Monitor,Peripheral,Monitor,Commodore 1084 Monitor,Commodore 1084 Monitor,Commodore Computers,RCA and Commodore Proprietary 8-Prong Outlet,1084,071787,1988,2015.03.09,,,
-Apple 17” Studio Display CRT Monitor,Peripheral,Monitor,Apple 17” Studio Display CRT,Apple 17” Studio Display CRT Monitor,Commodore Amiga,ADC,N/A,N/A,2000,2015.06.19,,Rafael Fajardo,Stand is broken. Last CRT-based display that Apple ever shipped.
-AppleColor High-Resolution RGB Monitor,Peripheral,Monitor,AppleColor High-Resolution RGB Monitor,AppleColor High-Resolution RGB Monitor,Macintosh,Apple Video,MO401,5447041,1987,2015.06.20,,Rafael Fajardo,
-Apple Color Plus 14” Display,Peripheral,Monitor,Apple Color Plus 14” Display,Apple Color Plus 14” Display,Apple Computers,N/A,M1787,CY442099152,1994,2015.06.24,,Rafael Fajardo,2013.06.25.
-SuperMatch 20 Plus Monitor,Peripheral,Monitor,SuperMatch 20 Plus,SuperMatch 20 Plus Monitor,N/A,N/A,CM2097AD3SM,Y93 110643,1993,2015.06.27,,Rafael Fajardo,
-eSoft Monitor,Peripheral,Monitors,eSoft Monitor,eSoft Monitor,eSoft Internet Protocol Adapter,,SP-1449,SP144905284,,2018.02.32,,,
-VGA Video Switcher,Peripheral,Adapter,ConvergeAV VGA Selector 4 port 450 Mhz,,VGA video output,VGA,VGA Selector 4 port 450 Mhz,703000725,2002,2019.04.145,,UCB Bookstore,"Includes power supply, missing IR Remote"
+Name,Medium,Type,Product Name,Username,Intended Compatibility,Interface,Model,Serial,Year,Accession Number,Date Tested,Donor,Notes,image,360_image
+Apple IIc Monitor,Peripheral,Monitor,Apple IIc Monitor,Apple IIc Monitor,Apple IIc,,G090H,T077678,1985,2013.06.17,2013-05-30,,,,
+Macintosh Centris 610 Monitor,Peripheral,Monitor,Macintosh 12” RGB Display,Macintosh Centris 610 Monitor,Macintosh Centris 610,,,,1991,2013.06.20,2013-05-30,,,,
+USI Brand 1400/C Model Monitor,Peripheral,Monitor,USI Brand 1400/C Model Monitor,USI Brand 1400/C Model Monitor,,,1400/C,,1983,2013.06.3,2103-05-30,,,,
+Commodore 1084S Monitor,Peripheral,Monitor,1084S Monitor,Commodore 1084S Monitor,"Commodore VIC-20, 64",RCA and Commodore Proprietary 8-Prong Outlet,1084S-P,182223,1989,2013.06.39,2013-05-30,,2013.06.51.,,
+Apple IIe Monitor,Peripheral,Monitor,Apple Color Composite Monitor (Monitor 100),Apple IIe Monitor,Apple IIe,,A2M6020,,1989,2013.06.4,2013-05-30,,,,
+Commodore 1902 Video Monitor,Peripheral,Monitor,Commodore 1902 Video Monitor,Commodore 1902 Video Monitor,Commodore 128,,1902,,1985,2013.06.56,2013-05-30,,,,
+Amiga Monitor,Peripheral,Monitor,Amiga Monitor,Amiga Monitor,Commodore Amiga,,AG19XA-1080,85295994,1985,2013.06.61,2013-05-30,,,,
+IBM Personal Computer Display,Peripheral,Monitor,IBM Personal Computer Display,IBM Personal Computer Display,IBM 5150 PC,,5151,0889756,1981,2013.06.64,2013-05-30,,,,
+Zenith Data Systems Video Monitor,Peripheral,Monitor,Zenith Data Systems Video Monitor,Zenith Data Systems Video Monitor,Franklin Ace 1000,,ZVM-121,4045726,,2013.06.77,2103-10-30,,"Franklin Ace 1000 is not working, so cannot complete testing.",,
+Taxan RGB Vision 210 Monitor,Peripheral,Monitor,RGB Vision 210,Taxan RGB Vision 210 Monitor,,,KS12R102S-U,,,2013.07.164,,,,,
+Commodore 1950 Monitor,Peripheral,Monitor,Commodore Color Monitor,Commodore 1950 Monitor,Commodore Computers,Power Cable and 15-Prong Connection,1950-A,R314BHFMD and CX0000827,1990,2013.07.167,2013-05-30,Keith Moore,14’’ Screen,,
+Dell Color LCD Monitor,Peripheral,Monitor,Dell Color LCD Monitor,Dell Color LCD Monitor,Dell PC,,E152FPc,CN-OM1619-64180-41U-0X3S,,2013.07.264,,,,,
+Comrex Video Monitor,Peripheral,Monitor,Comrex Video Monitor,Comrex Video Monitor,Texas Instruments TI-99/4A,,CR-5500,Y2G 006919,1982,2013.09.4,2013-05-30,Keith Moore,‘Hacked’ monitor created for Texas Instruments TI-99/4A computer.,,
+Apple III Monitor,Peripheral,Monitor,Monitor ///,Apple III Monitor,Apple III,"Bullet Plug, Coaxial-In",A3M0039,Y2E 032882,1982,2013.10.4,,Brad Feld,2013.06.10.,,
+NeXT Monitor - MegaPixel Display,Peripheral,Monitor,NeXT Monitor - MegaPixel Display,NeXT Monitor - MegaPixel Display,NeXT Cube,"RCA Audio Out, Headphone Out, Keyboard Out, Proprietary Input for All Power and Data Connections",N4000A,AAA7019401,1991,2013.10.58,2013-10-30,Brad Feld,2013.06.67.,,
+NEC Character Display,Peripheral,Monitor,NEC Character Display,NEC Character Display,,Video and Audio Input and Output (4x Bullet Plugs),PC-8041a,1730768J,1981,2013.12.61,,,,,
+NEC Color Monitor,Peripheral,Monitor,NEC Color Monitor,NEC Color Monitor,,"Power Cable, Audio, and Video In-and-Out (4x Bullet Plugs)",JC-1215MA,3748420S,1984,2013.12.62,,,,,
+AppleColor RGD Monitor,Peripheral,Monitor,AppleColor RGD Monitor,AppleColor RGD Monitor,Macintosh,Apple Video,A2M6014,N7131377,1992,2015.03.08,,Mark Morris,,,
+Commodore 1084 Monitor,Peripheral,Monitor,Commodore 1084 Monitor,Commodore 1084 Monitor,Commodore Computers,RCA and Commodore Proprietary 8-Prong Outlet,1084,071787,1988,2015.03.09,,,,,
+Apple 17” Studio Display CRT Monitor,Peripheral,Monitor,Apple 17” Studio Display CRT,Apple 17” Studio Display CRT Monitor,Commodore Amiga,ADC,,,2000,2015.06.19,,Rafael Fajardo,Stand is broken. Last CRT-based display that Apple ever shipped.,,
+AppleColor High-Resolution RGB Monitor,Peripheral,Monitor,AppleColor High-Resolution RGB Monitor,AppleColor High-Resolution RGB Monitor,Macintosh,Apple Video,MO401,5447041,1987,2015.06.20,,Rafael Fajardo,,,
+Apple Color Plus 14” Display,Peripheral,Monitor,Apple Color Plus 14” Display,Apple Color Plus 14” Display,Apple Computers,,M1787,CY442099152,1994,2015.06.24,,Rafael Fajardo,2013.06.25.,,
+SuperMatch 20 Plus Monitor,Peripheral,Monitor,SuperMatch 20 Plus,SuperMatch 20 Plus Monitor,,,CM2097AD3SM,Y93 110643,1993,2015.06.27,,Rafael Fajardo,,,
+eSoft Monitor,Peripheral,Monitors,eSoft Monitor,eSoft Monitor,eSoft Internet Protocol Adapter,,SP-1449,SP144905284,,2018.02.32,,,,,
+VGA Video Switcher,Peripheral,Adapter,ConvergeAV VGA Selector 4 port 450 Mhz,,VGA video output,VGA,VGA Selector 4 port 450 Mhz,703000725,2002,2019.04.145,,UCB Bookstore,"Includes power supply, missing IR Remote",,
