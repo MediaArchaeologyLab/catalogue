@@ -303,7 +303,7 @@ Apple II Serial Interface Card,Hardware,Peripheral,Internal Expansion,Controller
 Zoom/PC Card 56K Dualmode FaxModem Card,Hardware,Peripheral,Internal Expansion,Network,Zoom/PC Card 56K Dualmode FaxModem Card,,Zoom,2976L,,,,,,1998,,2990-Z2976-00-01L-1050,,,,,,PCMCIA,,,,2014.09.55,,,In original packaging. Includes driver software and documentation.,,,,
 Texas Instruments TI-89 Calculator,Hardware,Computing Device,Calculator,Digital,Texas Instruments TI-89 Calculator,,Texas Instruments,I-0194E,,,,,,1991,,13024552,,,,,,,,,,2014.09.66,,Don Witte,,,,,
 TRS-80 Micro Color Computer MC-10,Hardware,Computer System,Desktop Computer,,TRS-80 Micro Color Computer MC-10,,Tandy Corporation,26-3011,,,,,,1983,,255217,,,,4kb,.89MHz Motorolla MC6803,Serial I/O; Casette; Display; Proprietary cartridge slot,,Microsoft Micro Color Basic,,2014.09.79.1,,Don Witte,"power supply, 16K RAM expansion cartridge (2014.09.79.2), and OS cassette (2014.09.79.3)",,,,
-AppleCD 8x,Hardware,Peripheral,External Storage,CD Drive,AppleCD 8x,,Macintosh,PA64408RR856B,,,,,,1996,,,,,,,,SCSI,,,,2014.09.8,,,,,,,
+AppleCD 8x,Hardware,Peripheral,External Storage,CD Drive,AppleCD 8x,,"Apple Computer, Inc.",PA64408RR856B,,,,,,1996,,,,,,,,SCSI,,,,2014.09.8,,,,,,,
 Sony Micro Floppy Disk Drive,Hardware,Peripheral,External Storage,Floppy Disk Drive,Sony Micro Floppy Disk Drive,,"Apple Computer, Inc.",0A-D34V-02,,,,,,,,529248,,,,,,,,,,2014.09.84,,,No front cover to drive.,,,,
 Intel i386 Processor,Hardware,Peripheral,Internal Expansion,Processor,Intel i386 Processor,,Intel,A80386DX-25 IV,,,,,,1985,,iL0460401,,,,,,,,,,2014.09.85,,,,,,,
 Intel i486 DX2 Processor,Hardware,Peripheral,Internal Expansion,Processor,Intel i486 DX2 Processor,,Intel,A80386DX-25 IV,,,,,,1992,,iL4433109,,,,,,,,,,2014.09.86,,,,,,,
