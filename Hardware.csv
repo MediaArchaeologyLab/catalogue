@@ -47,8 +47,8 @@ Amiga 500,Hardware,Computer System,Desktop Computer,,Commodore Amiga 500,,Commod
 Amiga Monitor - Amiga 500,Hardware,Peripheral,Output,Monitor,Amiga Monitor,,Commodore International,,,,,,,1985,,85295994,,,,,,,,,,2013.06.61,,,
 Amiga 500 Mouse,Hardware,Peripheral,Input,Mouse,Amiga 500 Mouse,,Commodore International,,,,,,,,,,,,,,,,,,,2013.06.62,2013-05-30,,
 IBM Personal Computer,Hardware,Computer System,Desktop Computer,,IBM Personal Computer,,IBM,5150,,,,,,1981,"$1,565.00",0889756; FCC ID: AN08ZA5151,"2x 5.25""",,,16 kB,Intel 8088 @ 4.77 MHz,"cassette & keyboard only, 5 internal expansion slots",,"IBM BASIC / PC DOS v 1.0, CP/M-86, UCSD p-system",,2013.06.63,,,
-Monitor - IBM Personal Computer,Hardware,Peripheral,Output,Monitor,IBM Personal Computer Display,,IBM,5151,,,,,,1981,"$3,005 (package price)",889756,,,,,,,,,,2013.06.64,,,
-IBM 5150 Keyboard,Hardware,Peripheral,Input,Keyboard,IBM 5150 Keyboard,,IBM,,,,,,,,,,,,,,,,,,,2013.06.65,2013-05-30,,
+IBM Personal Computer Display,Hardware,Peripheral,Output,Monitor,IBM Personal Computer Display,,IBM,5153,,,,,,1981,"$3,005 (package price)",889756,,,,,,,,,,2013.06.64,,,
+IBM Personal Computer Keyboard,Hardware,Peripheral,Input,Keyboard,Model F,,IBM,,,,,,,,,,,,,,,,,,,2013.06.65,2013-05-30,,
 NeXT Cube,Hardware,Computer System,Desktop Computer,,NeXT Cube,,NeXT Computer Co.,N1000,,,,,,1990,,AAK0004152,"3.5""",,400 MB,16 MB,25 MHz 68040 with integrated floating-point unit,"SCSI, Two RS-423 serial ports, DSP I/O port, Display port, Laser printer port, Two Ethernet (twisted and thin) ports",,NeXTSTEP,,2013.06.66,,,
 Monitor - NeXT Cube,Hardware,Peripheral,Output,Monitor,NeXT Cube Monitor,,NeXT Computer Co.,N4000A,,,,,,1991,"$6,500 base price (package)",AAA 7026704,,,,,,,,,,2013.06.67,,,
 NeXT Keyboard,Hardware,Peripheral,Input,Keyboard,NeXT Keyboard,,NeXT Computer Co.,,,,,,,,,,,,,,,,,,,2013.06.68,2013-05-30,,
@@ -645,7 +645,7 @@ Wii Wheel,Hardware,Peripheral,Input,Game Controller,Wii Wheel,,Nintendo,,Nintend
 Nintendo Wii,Hardware,Game System,Console,,Wii,,Nintendo,RVL-001,Nintendo,,,,,2006,,,,,,,,,,,,2021.4.155,,,
 Wii Sensor Bar,Hardware,Peripheral,Input,Sensor,Wii Sensor Bar,,Nintendo,,Nintendo,,,,,2006,,,,,,,,,,,Wii,2021.4.156,,,
 Game Boy Printer,Hardware,Peripheral,Output,Printer,Game Boy Printer,,Nintendo,,Nintendo,,,,,1998,,,,,,,,,,,Game Boy,2021.4.159,,,
-Belkin USB 4-Port Hub,Hardware,Peripheral ,Input,,Belkin USB 4-Port Hub,,Belkin,,,,,,,,,,,,,,,,,,USB,2021.4.160,,,
+Belkin USB 4-Port Hub,Hardware,Peripheral,Input,,Belkin USB 4-Port Hub,,Belkin,,,,,,,,,,,,,,,,,,USB,2021.4.160,,,
 Super writemaster,Hardware,Peripheral,Output,,Super writemaster,,Samsung,,,,,,,,,,,,,,,,,,,2021.4.161,,,
 MovieBox Deluxe,Hardware,Peripheral,Input,Editing,MovieBox Deluxe,,Pinnacle Systems,,,,,,,,,,,,,,,,,,,2021.4.162,,,
 Apple Disk II,Hardware,Peripheral,External Storage,Floppy Disk Drive,Apple Disk II,,"Apple Computer, Inc.",,,,,,,1985,$595.00,,,,,,,Serial,,,,2021.5.30,,Avery Family,
@@ -663,15 +663,15 @@ Potentiometer Multi-Range Shunt,Hardware,Computing Device,Testing,Electronics,Po
 Potentiometer,Hardware,Computing Device,Testing,Electronics,Potentiometer,,Honeywell Reg. Co.,2780,,,,,,,,,,,,,,,,,,2021.5.42,,Avery Family,
 IBM Personal Computer,Hardware,Computer System,Desktop Computer,,IBM Personal Computer,,IBM,5150,,,,,,1981,,0889756; FCC ID: AN08ZA5151,"2x 5.25""",,,16 kB,Intel 8088 @ 4.77 MHz,"cassette & keyboard only, 5 internal expansion slots",,"IBM BASIC / PC DOS v 1.0, CP/M-86, UCSD p-system",,2021.5.43,,Avery Family,
 IBM Portable Personal Computer,Hardware,Computer System,Portable Computer,Luggable,IBM Portable Personal Computer,,IBM,5155 model 68,,,,,,1984,,,,,,,,,,,,2021.5.44,,Avery Family,
-TI-83 Plus,Hardware,Computing Device ,Calculator ,Digital,Texas Instruments TI-83 Plus,,Texas Instruments ,TI-83,,,,,,1997,,,,,,,,,,,,2021.5.47,,,
-Servo-Rotor,Hardware,Communication,Wired,Telephone,Servo-Rotor,,Archer,,,,,,,,,,,,,,,,,,,2021.5.49,,,
+TI-83 Plus,Hardware,Computing Device,Calculator ,Digital,Texas Instruments TI-83 Plus,,Texas Instruments ,TI-83,,,,,,1997,,,,,,,,,,,,2021.5.47,,,
+Servo-Rotor,Hardware,Communication Device,Wired,Telephone,Servo-Rotor,,Archer,,,,,,,,,,,,,,,,,,,2021.5.49,,,
 Total Remote Control,Hardware,Peripheral,Input,Remote,Total Remote Control,,Magnavox,,,,,,,,,,,,,,,,,,,2021.5.50,,,
 Remote Control,Hardware,Peripheral,Input,Remote,Remote Control,,RCA,,,,,,,,,,,,,,,,,,,2021.5.51,,,
 GPS II,Hardware,Computing Device,Navigation,GPS,GPS II,,Garmin,,,,,,,1998,,,,,,,,,,,,2021.5.53,,,
-Juice 70,Hardware,Peripheral ,Portable Charger,,Juice 70,,iGo,,,,,,,2002,,,,,,,,,,,,2021.5.54,,,Case in fabric case with plugs/wires and manuals 
-Switchboard Operator Headest,Hardware,Communication,Wired,Accessory,Switchboard Operator Headest,,Western Electric,289B,,,,,,,,,,,,,,,,,,2021.5.56,,Avery Family,
-Switchboard Operator Headest,Hardware,Communication,Wired,Accessory,Switchboard Operator Headest,,Western Electric,396A,,,,,,,,,,,,,,,,,,2021.5.57,,Avery Family,
-Switchboard Operator Headest,Hardware,Communication,Wired,Accessory,Switchboard Operator Headest,,Western Electric,8351,,,,,,,,,,,,,,,,,,2021.5.58,,Avery Family,
+Juice 70,Hardware,Peripheral,Portable Charger,,Juice 70,,iGo,,,,,,,2002,,,,,,,,,,,,2021.5.54,,,Case in fabric case with plugs/wires and manuals 
+Switchboard Operator Headest,Hardware,Communication Device,Wired,Accessory,Switchboard Operator Headest,,Western Electric,289B,,,,,,,,,,,,,,,,,,2021.5.56,,Avery Family,
+Switchboard Operator Headest,Hardware,Communication Device,Wired,Accessory,Switchboard Operator Headest,,Western Electric,396A,,,,,,,,,,,,,,,,,,2021.5.57,,Avery Family,
+Switchboard Operator Headest,Hardware,Communication Device,Wired,Accessory,Switchboard Operator Headest,,Western Electric,8351,,,,,,,,,,,,,,,,,,2021.5.58,,Avery Family,
 IBM Personal System/2,Hardware,Computer System,Desktop Computer,,IBM Personal System/2,,IBM United Kingdom,8530,,,,,,,,,,,,,8086,"serial, 3.25 floppy drive",,DOS 3.3,,2021.5.59,,Avery Family,
 Seeker Subsystem External Hard Disk,Hardware,Peripheral,External Storage,Floppy Disk Drive,Seeker Subsystem External Hard Disk,,"Western Automation Laboratories, Inc.",,,,,,,,,,,,,,,,,,,2021.5.60,,Avery Family,"Marked ""Evaluation Unit"", part of stacking subsystem with 2021.5.61"
 Seeker Subsystem External Hard Disk,Hardware,Peripheral,External Storage,Hard Drive,Seeker Subsystem External Hard Disk,,"Western Automation Laboratories, Inc.",,,,,,,,,,,,,,,,,,,2021.5.61,,Avery Family,"Marked ""Evaluation Unit"", part of stacking subsystem with 2021.5.60"
@@ -730,7 +730,7 @@ TQ-50,Hardware,Computer System,Desktop Computer,Mini PC,TQ-50,,E-Way Technology 
 EZgo Mini Computer,Hardware,Computer System,Desktop Computer,Mini PC,EZgo Mini Computer,,Atoz Technology,,,,,,,,,,,,,,,"optical drive, ADB keyboard, ADB mouse, composite video, S-video, VGA, parallel, serial, USB x2, FAX modem",,,,2021.6.78,,Benj Edwards / Brad Feld,"In box with power supply, accessories"
 "5.25"" Disk Drive",Hardware,Peripheral,External Storage,Floppy Disk Drive,"5.25"" Disk Drive",,"JMR Electronics, Inc.",,,,,,,,,844135,,,,,,,,,,2021.6.79,,Benj Edwards / Brad Feld,
 MessagePad 130,Hardware,Computer System,Portable Computer,Palmtop,MessagePad 130,,"Apple Computer, Inc.",,,,,,,1996,,,,,,,,,,Newton 2.0,,2021.6.80,,Karen Wickre,"Complete, in box with all accessories"
-Ericsson Mobile Companion MC 218,Hardware,Communication,Wireless,PDA,Ericsson Mobile Companion MC 218,,Psion PLC,MC 218,,,,,,1999,,,,,,,,,,EPOC,,2021.6.81,,Benj Edwards / Brad Feld,"Complete, in box with all accessories and manuals"
+Ericsson Mobile Companion MC 218,Hardware,Communication Device,Wireless,PDA,Ericsson Mobile Companion MC 218,,Psion PLC,MC 218,,,,,,1999,,,,,,,,,,EPOC,,2021.6.81,,Benj Edwards / Brad Feld,"Complete, in box with all accessories and manuals"
 HP Photosmart 245,Hardware,Peripheral,Output,Printer,HP Photosmart 245,,Hewlett-Packard,Q3046A,,,,,,2004,,CN416342FX,,,,,,,,,,2021.6.82,,Benj Edwards / Brad Feld,
 Micromint MMZ8 computer,Hardware,Computer System,Desktop Computer,Kit,Micromint MMZ8 computer,,Micromint,,,,,,,1982,,,,,,,,,,,,2021.6.83,,Benj Edwards / Brad Feld,"contains parts for 2 complete computers - motherboards, system controllers, power supplies, cassette I/O boards, plus 1 EPROM programmer and various EPROMs"
 ECM 103 Modem,Hardware,Peripheral,Networking,Modem,ECM 103 Modem,,Circuit Cellar,ECM 103,,,,,,,,,,,,,,,,,,2021.6.84,,Benj Edwards / Brad Feld,"Kit, not assembled. Stored with Micromint computer"
@@ -840,3 +840,13 @@ Macintosh II,Hardware,Computer System,Desktop Computer,,Macintosh II,,"Apple Com
 Macintosh II,Hardware,Computer System,Desktop Computer,,Macintosh II,,"Apple Computer, Inc.",M5000,,,,,,1987,,,,,,,,,,,,2021.7.140,,Benj Edwards / Brad Feld,
 Power PC 7500/100,Hardware,Computer System,Desktop Computer,,Power PC 7500/100,,"Apple Computer, Inc.",M3979,,,,,,,,,,,,,,,,,,2021.7.141,,Benj Edwards / Brad Feld,
 iMac G3,Hardware,Computer System,Desktop Computer,All-In-One,iMac G3,,"Apple Computer, Inc.",,,,,,,,,,,,,,,,,,,2021.7.142,,Benj Edwards / Brad Feld,"Complete, in box"
+IBM Personal Computer,Hardware,Computer System,Desktop Computer,,IBM Personal Computer,,IBM,5150,,,,,,1981,,11477145150,"2x 5.25""",,,16 KB,Intel 8088 @ 4.77 MHz,"cassette & keyboard only, 5 internal expansion slots",,"IBM BASIC / PC DOS v 1.0, CP/M-86, UCSD p-system",,2021.8.19,,Ken Garrett,Donated with large suite of software. Provenance letter & newspaper clipping on bulletin board
+IBM Personal Computer Display,Hardware,Peripheral,Output,Monitor,IBM Personal Computer Display,,IBM,5153,,,,,,1981,,287304,,,,,,,,,,2021.8.20,,Ken Garrett,
+IBM Personal Computer Keyboard,Hardware,Peripheral,Input,Keyboard,IBM Personal Computer Keyboard,,IBM,Model F,,,,,,1981,,,,,,,,,,,,2021.8.21,,Ken Garrett,
+AT&T Personal Computer 6300,Hardware,Computer System,Desktop Computer,,AT&T Personal Computer 6300,,Olivetti for AT&T,6300,,,,,,1984,,,"5.25""",,,256 KB,Intel 8086 @ 8 MHz,,,,MS-DOS,2021.8.22,,Bill Redak,"Doesn't power monitor properly, sounds like it boots - kept for parts"
+AT&T Personal Computer 6300,Hardware,Computer System,Desktop Computer,,AT&T Personal Computer 6300,,Olivetti for AT&T,6300,,,,,,1984,,,"5.25""",,,256 KB,Intel 8086 @ 8 MHz,,,,MS-DOS,2021.8.23,,,
+AT&T Personal Computer 6300 Keyboard,Hardware,Peripheral,Input,Keyboard,AT&T Personal Computer 6300 Keyboard,,Olivetti for AT&T,KBD 301,,,,,,1984,,,,,,,,,,,,2021.8.24,,Bill Redak,missing a couple of F keys
+AT&T Personal Computer 6300 Keyboard,Hardware,Peripheral,Input,Keyboard,AT&T Personal Computer 6300 Keyboard,,Olivetti for AT&T,KBD 301,,,,,,1984,,,,,,,,,,,,2021.8.25,,,
+AT&T Personal Computer 6300 Monitor,Hardware,Peripheral,Output,Monitor,AT&T Personal Computer 6300 Monitor,,Olivetti for AT&T,CRT 313/H,,,,,,1984,,,,,,,,,,,,2021.8.26,,Bill Redak,
+Atari 800,Hardware,Computer System,Desktop Computer,,Atari 800,,"Atari, Inc.",800,,,,,,1979,,388503,,,,,,,,,,2021.8.27,,Jim Reid,With power supply & RF switch
+Atari 810,Hardware,Peripheral,External Storage,Floppy Disk Drive,Atari 810,,"Atari, Inc.",801,,,,,,1980,,AZ 044726,,,,,,,,,,2021.8.28,,Jim Reid,With power supply & connection cable
