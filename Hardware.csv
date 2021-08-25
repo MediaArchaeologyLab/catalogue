@@ -849,4 +849,6 @@ AT&T Personal Computer 6300 Keyboard,Hardware,Peripheral,Input,Keyboard,AT&T Per
 AT&T Personal Computer 6300 Keyboard,Hardware,Peripheral,Input,Keyboard,AT&T Personal Computer 6300 Keyboard,,Olivetti for AT&T,KBD 301,,,,,,1984,,,,,,,,,,,,2021.8.25,,,
 AT&T Personal Computer 6300 Monitor,Hardware,Peripheral,Output,Monitor,AT&T Personal Computer 6300 Monitor,,Olivetti for AT&T,CRT 313/H,,,,,,1984,,,,,,,,,,,,2021.8.26,,Bill Redak,
 Atari 800,Hardware,Computer System,Desktop Computer,,Atari 800,,"Atari, Inc.",800,,,,,,1979,,388503,,,,,,,,,,2021.8.27,,Jim Reid,With power supply & RF switch
-Atari 810,Hardware,Peripheral,External Storage,Floppy Disk Drive,Atari 810,,"Atari, Inc.",801,,,,,,1980,,AZ 044726,,,,,,,,,,2021.8.28,,Jim Reid,With power supply & connection cable
+Atari 810,Hardware,Peripheral,External Storage,Floppy Disk Drive,Atari 810,,"Atari, Inc.",810,,,,,,1980,,AZ 044726,,,,,,,,,,2021.8.28,,Jim Reid,With power supply & connection cable
+Electro-Mechanical Calculator,Hardware,Computing Device,Calculator,Analog,Electro-Mechanical Calculator,,,,,,,,,,,,,,,,,,,,,2021.8.39,,,
+Leapster Learning Game System,Hardware,Game System,Handheld,Educational,Leapster Learning Game System,,LeapFrog Enterprises,20283,,,,,,2003,,,,,,,,,,,,2021.8.40,,Chris Torrence,
