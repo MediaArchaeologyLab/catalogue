@@ -663,7 +663,7 @@ Potentiometer Multi-Range Shunt,Hardware,Computing Device,Testing,Electronics,Po
 Potentiometer,Hardware,Computing Device,Testing,Electronics,Potentiometer,,Honeywell Reg. Co.,2780,,,,,,,,,,,,,,,,,,2021.5.42,,Avery Family,
 IBM Personal Computer,Hardware,Computer System,Desktop Computer,,IBM Personal Computer,,IBM,5150,,,,,,1981,,0889756; FCC ID: AN08ZA5151,"2x 5.25""",,,16 kB,Intel 8088 @ 4.77 MHz,"cassette & keyboard only, 5 internal expansion slots",,"IBM BASIC / PC DOS v 1.0, CP/M-86, UCSD p-system",,2021.5.43,,Avery Family,
 IBM Portable Personal Computer,Hardware,Computer System,Portable Computer,Luggable,IBM Portable Personal Computer,,IBM,5155 model 68,,,,,,1984,,,,,,,,,,,,2021.5.44,,Avery Family,
-TI-83 Plus,Hardware,Computing Device,Calculator ,Digital,Texas Instruments TI-83 Plus,,Texas Instruments ,TI-83,,,,,,1997,,,,,,,,,,,,2021.5.47,,,
+TI-83 Plus,Hardware,Computing Device,Calculator,Digital,Texas Instruments TI-83 Plus,,Texas Instruments ,TI-83,,,,,,1997,,,,,,,,,,,,2021.5.47,,,
 Servo-Rotor,Hardware,Communication Device,Wired,Telephone,Servo-Rotor,,Archer,,,,,,,,,,,,,,,,,,,2021.5.49,,,
 Total Remote Control,Hardware,Peripheral,Input,Remote,Total Remote Control,,Magnavox,,,,,,,,,,,,,,,,,,,2021.5.50,,,
 Remote Control,Hardware,Peripheral,Input,Remote,Remote Control,,RCA,,,,,,,,,,,,,,,,,,,2021.5.51,,,
@@ -850,5 +850,5 @@ AT&T Personal Computer 6300 Keyboard,Hardware,Peripheral,Input,Keyboard,AT&T Per
 AT&T Personal Computer 6300 Monitor,Hardware,Peripheral,Output,Monitor,AT&T Personal Computer 6300 Monitor,,Olivetti for AT&T,CRT 313/H,,,,,,1984,,,,,,,,,,,,2021.8.26,,Bill Redak,
 Atari 800,Hardware,Computer System,Desktop Computer,,Atari 800,,"Atari, Inc.",800,,,,,,1979,,388503,,,,,,,,,,2021.8.27,,Jim Reid,With power supply & RF switch
 Atari 810,Hardware,Peripheral,External Storage,Floppy Disk Drive,Atari 810,,"Atari, Inc.",810,,,,,,1980,,AZ 044726,,,,,,,,,,2021.8.28,,Jim Reid,With power supply & connection cable
-Remington Rand Printing Calculator,Hardware,Computing Device,Calculator,Analog,Remington Rand Printing Calculator,,Remington Rand,96,,,,,,,,,,,,,,,,,,2021.8.39,,,
+Remington Rand Printing Calculator,Hardware,Computing Device,Calculator,Analog,Remington Rand Printing Calculator,,Remington Rand,96,,,,,,1955,,,,,,,,,,,,2021.8.39,,,
 Leapster Learning Game System,Hardware,Game System,Handheld,Educational,Leapster Learning Game System,,LeapFrog Enterprises,20283,,,,,,2003,,,,,,,,,,,,2021.8.40,,Chris Torrence,
