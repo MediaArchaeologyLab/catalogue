@@ -930,3 +930,25 @@ FredBoard Breadboard Integrated Arduino,Hardware,Computing Device,Education,Robo
 Vulkano Flow,Hardware,Peripheral,Input/Output,Video Streaming,Vulkano Flow,,Monsoon Multimedia,010410VF,Monsoon Multimedia,,,,English,2011,$99,VUL2F-02-20111110-13122,,,,,,"AV in/out x2, barrel jack power, IR, Ethernet",,,,2022.9.3,,,
 AirPort Extreme Base Station,Hardware,Peripheral,Networking,Router,AirPort Extreme Base Station,,"Apple Computer, Inc.",A1521,"Apple Computer, Inc.",,,,English,2013,,C86NQERGFJ1R,,,,,,"Ethernet in, Ethernet out x3, USB",,,,2022.9.4,,Lori Emerson,
 G-Raid 500,Hardware,Peripheral,External Storage,Hard Drive,G-Raid 500,,G-Technology Inc.,107005-01,G-Technology Inc.,,,,English,,,206290036,,,500gb Raid,,,"Firewire 400, Firewire 800 x2, power",,,,2022.9.5,,Kyle Bickoff,
+Braille Blazer Portable Embosser,Hardware,Peripheral,Output,Embosser,Braille Blazer Portable Embosser,,Freedom Scientific,BB2-1,Blazie Engineering,,,,English,2002,,0007259,,,,,,"Centronics, Serial, headphone jack",,,,2022.9.118,,Jas Brooks,With cables. Use QuickTac software for control. Manual: https://www.freedomscientific.com/Content/Documents/Manuals/Legacy/BrailleBlazerDocs/440102-001BrailleBlazer.pdf
+Fast Ethernet by 3Com,Hardware,Peripheral,Networking,PCMCIA Card,Fast Ethernet by 3Com,,3Com,3CCFE575BT-D,,,,,,1998,,6NL104BF1C8C6,,,,,,PCMCIA,,,Dell laptops,2022.9.119,,,
+56K Global Modem,Hardware,Peripheral,Networking,PCMCIA Card,56K Global Modem,,3Com,3CCM156,,,,,,1998,,607809,,,,,,PCMCIA,,,,2022.9.120,,,
+Cue Cat Optical Reader,Hardware,Reading/Writing,Sensory/Interpretive,Barcode Reader,Cue Cat Optical Reader,,Cue Cat,68-1965,Digital Convergence,,,,,2000,,,,,,,,PS2,,,,2022.9.121,,,
+JAZ PCMCIA to Fast SCSI II Adapter,Hardware,Peripheral,Input/Output,Adapter,JAZ PCMCIA to Fast SCSI II Adapter,,iomega,359,iomega,,,,,1996,,,,,,,,"PCMCIA, SCSI II",,,,2022.9.122,,,"in box, with cables and software"
+Motorola V330 Flip Phone,Hardware,Communication Device,Wireless,Cellular Phone,Motorola V330 Flip Phone,,Motorola,V330,,,,T-Mobile,,2005,,,,,,,,,,,,2022.9.123,,Dan Herrick,with power brick
+Kyocera KX414,Hardware,Communication Device,Wireless,Cellular Phone,Kyocera KX414,,Kyocera,KX414,,,,Verizon,,2003,,,,,,,,,,,,2022.9.124,,Dan Herrick,with power brick
+Motorola V195S,Hardware,Communication Device,Wireless,Cellular Phone,Motorola V195S,,Motorola,V195S,,,,T-Mobile,,2007,,,,,,,,,,,,2022.9.125,,Dan Herrick,with power brick
+AppleColor RGB Monitor,Hardware,Peripheral,Output,Monitor,AppleColor RGB Monitor,,"Apple Computer, Inc.",A2M6014,,,,,,1988,,,,,,,,,,,,2022.9.152,,,
+i2eye,Hardware,Communication Device,Wired,Video Phone,i2eye,,D-Link,DVC-1100,,,,,,2003,,,,,,,,,,,,2022.9.153,,Aryeh Goretsky,"Complete 2-unit set with all accessories and manuals, in box."
+Casio Scientific Calculator/Chronograph,Hardware,Computing Device,Calculator,Digital,Casio Scientific Calculator/Chronograph,,Casio,fx-8100,,,,,,1980,,,,,,,,,,,,2022.9.170,,,
+TDK Indi A/V IN,Hardware,Peripheral,Input,Adapter,TDK Indi A/V IN,,TDK,VC-2600UE,,,,,,,,,,,,,,"RCA, S-video, USB-B",,,,2022.9.180,,,
+AtariMax MyIDE II,Hardware,Peripheral,External Storage,Compact Flash,AtariMax MyIDE II,,AtariMax,V.4,Steven J. Tucker,,,,English,2015,,,,,,,,,,,Atari 8-Bit,2022.9.182,,,"With instruction sheets, needs compact flash"
+MidiJoy,Hardware,Peripheral,Input/Output,Adapter,MidiJoy,,,,Hermann Seib,,,,,2015,,,,,,,,,,,Commodore,2022.9.183,,,
+Vic Midi,Hardware,Peripheral,Input/Output,Adapter,Vic Midi,,Retro Innovations,,,,,,,2015,,,,,,,,,,,VIC-20,2022.9.184,,,
+Sphero,Hardware,Computing Device,Education,Interactive Education,Sphero,,Orbotix,001,Orbotix,,,,English,2011,,,,,,,,inductive charging base,,,,2022.9.185,,Brad Feld,"Complete with charging base and instructions, in packaging (opened to test)"
+BB-8 Sphero,Hardware,Computing Device,Education,Interactive Education,BB-8 Sphero,,Orbotix,R001,Orbotix,,,,English,2015,,,,,,,,inductive charging base,,,,2022.9.186,,Brad Feld,"Complete with charging base and instructions, in packaging (opened to test) - signed and numbered."
+MacBook,Hardware,Computer System,Portable Computer,Laptop,MacBook,,"Apple Computer, Inc.",A1181,"Apple Computer, Inc.",,,,,2011,,W8719NTJYA2,,Matshita CD-RW CW-8221,80.03 GB Fujitsu MHW2080BHPL SATA,2x 512 MB DDR2 SDRAM,2 GHz Intel Core 2 Duo,"2x USB, Firewire, display port, ethernet, magsafe power, 2x audio jack",,OS X 10.6.8,,2022.9.187,,,"tested, works on wall power. removed battery (swollen). power supply included."
+MouseMan,Hardware,Peripheral,Input,Mouse,MouseMan,,Logitech,CR32,Logitech,,,,,,,811158-00,,,,,,Serial mouse port,,,,2022.9.188,,,
+Cue Cat Optical Reader,Hardware,Reading/Writing,Sensory/Interpretive,Barcode Reader,Cue Cat Optical Reader,,Cue Cat,68-1965,Digital Convergence,,,,,2000,,,,,,,,,,,,2022.9.201,,,in plastic packaging with cd and booklet
+USB 2.0 Hub,Hardware,Peripheral,Input/Output,Adapter,USB 2.0 Hub,,General Electric,98751,,,,,,,,,,,,,,,,,,2022.9.202,,,
+Texas Instruments Speech Synthesizer,Hardware,Peripheral,Input/Output,Adapter,Texas Instruments Speech Synthesizer,,Texas Instruments,PHP1500,,,,,,1979,,9642670,,,,,,,,,,2022.9.203,,,
