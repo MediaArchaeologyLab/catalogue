@@ -76,7 +76,6 @@ Macintosh Portable Mouse,Hardware,Peripheral,Input,Mouse,Macintosh Portable Mous
 Nintendo Entertainment System,Hardware,Game System,Console,,Nintendo Entertainment System,,Nintendo,,,,,,,2995,$299.00,,,,,16 Kbit,Ricoh 2A03 8-bit processor (MOS Technology 6502 core),"2 controller ports, 1 expansion slot",,,,2013.06.99,,,
 Apple Keyboard,Hardware,Peripheral,Input,Keyboard,Apple Keyboard,,"Apple Computer, Inc.",M0110,,,,,,,,G647M01102472,,,,,,,,,,2013.07.134,,,
 Apple Modem 300,Hardware,Peripheral,Networking,Modem,Apple Modem 300,,"Apple Computer, Inc.",A9M0300,,,,,,,,LA 032414,,,,,,,,,,2013.07.135,,,"In box with power cable, connector cable, instruction manual"
-Apple IIe,Hardware,Computer System,Desktop Computer,,Apple IIe,,"Apple Computer, Inc.",A2S2064,,,,,,1983,,E57 02SE A2S2064,,None,Hard Disk Drive:,64 KN (up to 1 MB),65C02,,," Apple DOS 3.3, ProDOS",,2013.07.136,2013-05-30,,
 Apple IIe,Hardware,Computer System,Desktop Computer,,Apple IIe,,"Apple Computer, Inc.",,,,,,,1983,,,,,,,,,,,,2013.07.137,,,
 Apple Personal LaserWriter LS,Hardware,Peripheral,Output,Printer,Apple Personal LaserWriter LS,,"Apple Computer, Inc.",M2000,,,,,,1991,,CA112KEW%M8026G/A,,,,".5MB, upgradeable to 1MB (4 30-pin RAM sticks)",,RS-422 serial,,PD Language: QuickDraw,,2013.07.138,,,
 Apple Desktop Bus Mouse,Hardware,Peripheral,Input,Mouse,Apple Desktop Bus Mouse,,"Apple Computer, Inc.",,,,,,,,,,,,,,,,,,,2013.07.139,,,
@@ -952,3 +951,9 @@ MouseMan,Hardware,Peripheral,Input,Mouse,MouseMan,,Logitech,CR32,Logitech,,,,,,,
 Cue Cat Optical Reader,Hardware,Reading/Writing,Sensory/Interpretive,Barcode Reader,Cue Cat Optical Reader,,Cue Cat,68-1965,Digital Convergence,,,,,2000,,,,,,,,,,,,2022.9.201,,,in plastic packaging with cd and booklet
 USB 2.0 Hub,Hardware,Peripheral,Input/Output,Adapter,USB 2.0 Hub,,General Electric,98751,,,,,,,,,,,,,,,,,,2022.9.202,,,
 Texas Instruments Speech Synthesizer,Hardware,Peripheral,Input/Output,Adapter,Texas Instruments Speech Synthesizer,,Texas Instruments,PHP1500,,,,,,1979,,9642670,,,,,,,,,,2022.9.203,,,
+Epson HX-20,Hardware,Computer System,Portable Computer,Notebook,Epson HX-20,,Seiko Epson,HX-20,Yukio Yokozawa,,,,,1982,$795,017415,,,,16 kb,"2x Hitachi 6309, 614 kHz","Cartridge, RS-232C x 2, power adapter, expansion slot","printer, microcassette",,,2023.2.1,,,"in carrying case with power adapter, has built-in SkiWriter word processor"
+Epson HX-20,Hardware,Computer System,Portable Computer,Notebook,Epson HX-20,,Seiko Epson,HX-20,Yukio Yokozawa,,,,,1982,$795,010531,,,,16 kb,"2x Hitachi 6309, 614 kHz","Cartridge, RS-232C x 2, power adapter, expansion slot","printer, microcassette",,,2023.2.2,,,in carrying case with power adapter
+Epson HX-20,Hardware,Computer System,Portable Computer,Notebook,Epson HX-20,,Seiko Epson,HX-20,Yukio Yokozawa,,,,,1982,$795,017792,,,,16 kb,"2x Hitachi 6309, 614 kHz","Cartridge, RS-232C x 2, power adapter, expansion slot","printer, microcassette",,,2023.2.3,,,in carrying case with power adapter
+Epson HX-20 Expansion Unit,Hardware,Peripheral,External Expansion,RAM,Epson HX-20 Expansion Unit,,Seiko Epson,H20EU,Yukio Yokozawa,,,,,1982,,512528,,,,,,,,,,2023.2.15,,,
+Epson HX-20 Keyboard,Hardware,Peripheral,Input/Output,Spare Parts,Epson HX-20 Keyboard,,Seiko Epson,,Yukio Yokozawa,,,,,,,,,,,,,,,,,2023.2.16,,,
+Palaiova Telephone,Hardware,Communication Device,Wired,Telephone,Palaiova Telephone,,TESLA Czechslovakia,,,,,,,,,,,,,,,,,,,2023.2.37,,,

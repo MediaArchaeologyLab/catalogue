@@ -192,9 +192,9 @@ A Sound Investment,Audio-Visual,Audio & Visual,Audio & Visual Recording,Presenta
 Xbox 360 HD DVD Player,Audio-Visual,Audio & Visual,Audio & Visual Playback,HD DVD Player,Xbox 360 HD DVD Player,,Microsoft,,,,,,,2006,,,,,,,,"Power, USB 2.0x2",,,"Xbox 360, Windows XP/Vista/8/10, OSX 10+",2021.3.795,,,"Reads CD, DVD, and HD DVD"
 Brownie Hawkeye Flash Model,Audio-Visual,Visual,Image-making,Still Film Camera,Brownie Hawkeye Flash Model,,Eastman Kodak Company,,,,,,,1949,,,,,,,,,,,620 Film,2021.4.118,,Avery Family,
 Treasure Quest: The Soundtrack,Audio-Visual,Audio,Audio Recording,CD,Treasure Quest: The Soundtrack,,,,,,,Sirius Publishing,,1995,,,,,,,,,,,CD Player,2021.4.163,,,
-Klebepresse F 8S automatic ,Audio-Visual,Visual,Visual Display,Film Splicer ,Kelebpresse F 8S automatic ,,Kelebpresse,,,,,,,1960,,,,,,,,,,,,2021.5.45,,,
+Klebepresse F 8S automatic ,Audio-Visual,Visual,Visual Display,Film Splicer,Kelebpresse F 8S automatic ,,Kelebpresse,,,,,,,1960,,,,,,,,,,,,2021.5.45,,,
 Dia Cutter,Audio-Visual,Visual,Visual Display,Film Splicer,Dia Cutter,,Bonum,,,,,,,,,,,,,,,,,,,2021.5.46,,,
-Perfect Sound,Audio-Visual,Audio,Peripheral ,Digital Sound Sampler,Perfect Sound,,SunRize Industries,,,,,SunRize Industries,,1986,,,,,,,,,,,Amiga,2021.5.48,,,"Comes in box with a 3.5"" Floppy disk"
+Perfect Sound,Audio-Visual,Audio,Audio Recorder,Digital Sound Sampler,Perfect Sound,,SunRize Industries,,,,,SunRize Industries,,1986,,,,,,,,,,,Amiga,2021.5.48,,,"Comes in box with a 3.5"" Floppy disk"
 "I Am Rapture, Rapture Is Me - Official Bioshock Score",Audio-Visual,Audio & Visual,Audio Recording,Record,"I Am Rapture, Rapture Is Me - Official Bioshock Score",,,,,,,Take-Two Interactive Software,,2002,,,,,,,,,,,,2021.7.67,,Benj Edwards / Brad Feld,
 Panasonic Bi-Sider,Audio-Visual,Audio & Visual,Audio & Visual Display,Television,Panasonic Bi-Sider TV/FM-AM Radio/Clock,,Panasonic,TR-4060P,,,,,,1982,,,,,,,,,,,,2021.8.34,,,
 Panasonic Solid-State 3-Way,Audio-Visual,Audio & Visual,Audio & Visual Display,Television,Panasonic Solid-State 3-Way TV/FM-AM Radio,,Panasonic,TR-535C,,,,,,1975,,,,,,,,,,,,2021.8.35,,,
@@ -279,3 +279,8 @@ Starwars Episode II Part 1 & 2 Hardware Wars,Audio-Visual,Audio & Visual,Audio &
 "MP3's, SCIFI movie clips",Audio-Visual,Audio & Visual,Audio & Visual Recording,CD-RW,"MP3's, SCIFI movie clips",,,,,,,,,,,,,,,,,,,,,2023.1.104,,Wenhua Shi,pirated media
 "Starwars Episode II Part 3, Fantastic 4 Part 1 & 2, Fuel Video, Spiderman Trailer",Audio-Visual,Audio & Visual,Audio & Visual Recording,CD-RW,"Starwars Episode II Part 3, Fantastic 4 Part 1 & 2, Fuel Video, Spiderman Trailer",,,,,,,,,,,,,,,,,,,,,2023.1.105,,Wenhua Shi,pirated media
 Scooby Doo 1 & 2,Audio-Visual,Audio & Visual,Audio & Visual Recording,CD-RW,Scooby Doo 1 & 2,,,,,,,,,,,,,,,,,,,,,2023.1.106,,Wenhua Shi,pirated media
+Net MD Walkman Type-R,Audio-Visual,Audio,Portable Audio Player,MiniDisc,Net MD Walkman Type-R,,Sony,MZ-N505,,,,,,2002,,,,,,,,"Mic, Line-in, proprietary headphone jack",AA battery,,MiniDisc,2023.1.141,,Beth August Abbot,
+Blank MiniDisc,Audio-Visual,Audio,Audio Recording,MiniDisc,Blank MiniDisc,,Memorex,MD-74,,,,,,,,,,,,,,,,,MiniDisc,2023.1.142,,Beth August Abbot,
+"""Rock""",Audio-Visual,Audio,Audio Recording,MiniDisc,"""Rock""",,,,,Mixed title user generated disc,,,,,,,,,,,,,,,MiniDisc,2023.1.143,,Beth August Abbot,
+"""Punk Rock""",Audio-Visual,Audio,Audio Recording,MiniDisc,"""Punk Rock""",,,,,Mixed title user generated disc,,,,,,,,,,,,,,,MiniDisc,2023.1.144,,Beth August Abbot,
+Duaflex III Flash Outfit,Audio-Visual,Visual,Image-making,Still Digital Camera,Duaflex III Flash Outfit,,Eastman Kodak Company,67K,,,,,,,,,,,,,,,,,,2023.1.145,,"In box: includes booklet, camera, neck strap, flash unit, and flash cover",
